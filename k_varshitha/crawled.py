@@ -85,7 +85,8 @@ def crawl_url(url, folder_path):
     else:
         # Generate filename based on the crawled URL (replace special characters with underscores)
         filename = url.replace('://', '_').replace('/', '_').replace('.', '_').replace(':','_').replace('&','_').replace('=',"_")
-        save_to_file(url,'C:/Users/varshitha/acuration-demos/k_varshitha/crawled_content/error404', f"{filename}_html.html")
+        response=requests.get(url)
+        save_to_file(response.text,'C:/Users/varshitha/acuration-demos/k_varshitha/crawled_content/error404', f"{filename}_html.html")
 def main():
     # Specify the path to the sitemap.xml file
     sitemap_path = 'C:/Users/varshitha/Downloads/sofarocean_sitemap.xml'
