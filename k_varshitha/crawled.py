@@ -41,16 +41,13 @@ def clean_html_and_extract_text(html_text):
     soup = BeautifulSoup(html_text, 'html.parser')
 
     # Extract text content
-    text_content = soup.get_text(separator=' ', strip=True)
-
-    # # Remove special characters and extra whitespaces
-    # cleaned_text = re.sub(r'[^a-zA-Z0-9\s]', '', text_content)
-
-    cleaned_text = re.sub(r'\s+', ' ', text_content)  # Replace multiple spaces with a single space
-    cleaned_text = re.sub(r'[^\w\s]', '', cleaned_text)  # Remove non-alphanumeric characters
-        # Normalize the text (standardise format-convert to lowercase)
-    cleaned_text = cleaned_text.lower()
-
+    text_content = soup.get_text('\n', strip=True)
+    result = text_content.split('\n')
+    result = [x for x in result if x != '']
+    #print(result)
+    cleaned_text="\n".join(result)
+    # Normalize the text (standardise format-convert to lowercase)
+    #cleaned_text = cleaned_text.lower()
     return cleaned_text
 
 def save_to_file(content, folder_path, filename):

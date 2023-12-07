@@ -1,1 +1,230 @@
-wayfinder voyage optimization demo sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch product product wayfinder wayfinder voyage optimization demo to demonstrate how wayfinders proactive and continuous guidance is superior to oneoff reactive guidance we built an indepth routing demo using real voyage data sofar ocean april 11 2023 ï back product product wayfinder wayfinder voyage optimization demo sofar ocean sofarâs wayfinder voyage optimization platform provides continuous proactive and holistic route guidance to vessels it considers hundreds of millions of route options daily before sending waypoint and rpm recommendations based on a shipâs business and safety constraints the latest weather forecasts â informed by our global ocean sensor network â along a vesselâs route the shipâs unique vessel performance model vpm changing market factors in the following route demo we use real voyage data to compare the effectiveness of wayfinderâs continuously optimized route guidance and nonoptimized route guidance that recommends preset waypoints and constant speed demo in figure 1  we compare the two following routing scenarios for a bulk carrier traveling from asia to the west coast of the united states nonoptimized route orange line this route uses constant speed and fixed waypoints set prior to the start of the voyage a midvoyage diversion ie adjusted waypoints is included to simulate a captain rapidly changing course due to inclement weather while vessels often change speed in response to inclement weather this nonoptimized route guidance assumes that constant speed is maintained to meet a required time of arrival wayfinder optimized route green line this route is continuously optimized during the voyage rpm and waypoint guidance is assessed daily by sofarâs wayfinder platform the colored background layer in figure 1 represents the significant wave height in the northern pacific ocean each yellow pentagon represents the position of a sofar spotter buoy  weather data and the positions of the spotters and vessels are valid for march 2 2022 at 0600z the red parametric roll warning and pink synchronous roll warning pillshaped areas along each route represent parts of the journey identified by wayfinder as particularly highrisk due to inclement weather figure 1 the wayfinder optimized route green line and nonoptimized route orange line for a bulk carrier traveling from asia to the west coast of the united states the colored background layer represents significant wave height in the northern pacific ocean each yellow pentagon represents the position of a spotter buoy the red and pink pillshaped areas along each route represent parametric roll warnings and synchronous roll warnings respectively issued by wayfinder figure 2 shows the significant wave heights encountered by the vessels in each routing scenario along their respective paths the vessel on the wayfinder optimized route â which we will call vessel a â spends less time in high wave conditions compared to the vessel on the nonoptimized route which we call vessel b  notably vessel a encounters a maximum wave height of just over 5 meters while vessel b encounters waves larger than 75 meters figure 2 the significant wave heights encountered along the wayfinder optimized route green line and the nonoptimized route orange line figure 3 shows a time series of the vesselsâ average rpm over 12hour intervals along each route vessel a follows the daily rpm guidance sent by the wayfinder platform vessel b âs rpm is adjusted to maintain constant speed figure 4 shows a time series of the vesselsâ speed along each route vessel aâs speed fluctuates in response to the daily rpm adjustments recommended by wayfinder as well as to variations in the weather conditions that it encounters such as ocean currents and wind speed vessel bâs speed is held constant figure 3 left time series of the vesselsâ average rpm over 12hour intervals along the wayfinder optimized route green line and nonoptimized route orange line figure 4 right time series of the vesselsâ velocity along the wayfinder optimized route green line and nonoptimized route orange line three time series of the vesselsâ cost of trip  figure 5  total fuel consumed  figure 6  and emissions  figure 7  along each route are shown below cost of trip total fuel consumed and emissions are closely related the more fuel a vessel burns the greater its emissions output and voyage cost will be figure 5 left time series of the vesselsâ cost of trip along the wayfinder optimized route green line and nonoptimized route orange line figure 6 middle time series of the vesselsâ total fuel consumed along the wayfinder optimized route green line and nonoptimized route orange line figure 7 right time series of the vesselsâ emissions along the wayfinder optimized route green line and nonoptimized route orange line collectively these times series show that vessel aâs cost of trip is less than vessel bâs cost of trip for the entire duration of the voyage cumulatively following the wayfinder optimized route saves 1346378  figure 5  vessel a burns less fuel than vessel b for the entire duration of the voyage cumulatively following the wayfinder optimized route saves 3108 mt of fuel relative to the nonoptimized route  figure 6  vessel a produces fewer emissions than vessel b for the entire duration of the voyage cumulatively following the wayfinder optimized route saves 8882 mt of co 2 relative to the nonoptimized route  figure 7  analysis vessel a has superior cost fuel and emissions outcomes relative to vessel b  why the key differentiator is the voyage guidance underpinning the wayfinder optimized route and the nonoptimized route letâs break it down early in the voyage vessel a and vessel b follow nearly identical waypoints vessel b travels at a constant speed of 11 knots 566 ms while vessel a â which is receiving daily rpm guidance from wayfinder â travels at variable speeds that are consistently slower than 11 knots as a result vessel b covers more distance and consumes more fuel than vessel a early in the voyage as the vessels enter the open ocean their paths diverge dramatically vessel a follows a southerly course and reduces its rpm and speed to avoid a storm system that wayfinder forecasts will develop in the northern pacific later in the voyage vessel b  which is following fixed waypoints set prior to the voyage takes a northerly course at constant speed this exposes vessel b to the storm system and despite a late diversion to avoid the stormâs effects it sails through dangerous waves larger than 75 meters vessel a and vessel b âs distinct courses highlight the importance of daily continuous route guidance as well as highly accurate weather forecasts white paper the key components of an effective voyage optimization platform after avoiding the storm vessel a takes advantage of calm seas and increases its rpm and speed significantly while vessel b continues to travel at constant speed on march 4th for example vessel a travels nearly 4 knots 2 ms faster than vessel b  during stretches like these vessel a makes up some of the distance and time lost earlier in the voyage when it adjusted its rpm and course to avoid the storm later in the voyage vessel a and vessel b both sail through stretches of rough seas in figure 1  these highrisk areas are represented by the red parametric roll warning and pink synchronous roll warning pillshaped areas along each route vessel a consistently decreases its rpm when sailing through these treacherous areas for example on march 5th vessel a receives a highrisk synchronous roll warning from wayfinder in response it decreases its rpm from 65 to 56 which lowers its speed by nearly 6 knots 3 ms vessel b  which sails through roll risk areas for nearly three straight days starting on march 6th increases its rpm to as high as 76 during this period to maintain constant speed and meet its required time of arrival as a result vessel b experiences elevated safety risk and burns more fuel further widening the gap between its energy consumption and that of vessel a  ultimately vessel a arrives at port just three hours after vessel b  despite traveling an additional 13486 nautical miles vessel b âs minimal time savings come at an extremely high cost it spends 1346378 more dollars burns 3108 mt more fuel and produces 8882 mt more co 2 emissions than vessel a  by following wayfinderâs route guidance vessel a accesses continuously optimized rpm and waypoint recommendations allowing it to sail as efficiently as possible given changing ocean weather and economic factors by sailing at a constant speed with inflexible waypoints vessel b becomes more susceptible to inclement weather and suboptimal voyage outcomes whether maintaining constant speed power or route sailing without continuous optimization will always produce inferior results to learn more about wayfinder check out its product page  to schedule a demo with the wayfinder team please fill out this short form  sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories announcements april 11 2023 star bulk and eagle bulk enhance voyage optimization capabilities with sofar oceanâs wayfinder platform ocean science march 2 2023 an ocean scientist explains the carbon intensity indicator cii ocean science june 6 2022 everything you need to know about the carbon intensity indicator cii about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Wayfinder Voyage Optimization Demo
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Product
+Product
+Wayfinder
+Wayfinder Voyage Optimization Demo
+To demonstrate how Wayfinder's proactive and continuous guidance is superior to one-off, reactive guidance, we built an in-depth routing demo using real voyage data.
+Sofar Ocean
+April 11, 2023
+ï
+Back
+Product
+Product
+Wayfinder
+Wayfinder Voyage Optimization Demo
+Sofar Ocean
+Sofarâs
+Wayfinder
+voyage optimization platform provides continuous, proactive, and holistic route guidance to vessels. It considers hundreds of millions of route options daily before sending waypoint and RPM recommendations based on:
+A shipâs business and safety constraints
+The latest weather forecasts â informed by our
+global ocean sensor network
+â along a vesselâs route
+The shipâs unique Vessel Performance Model (VPM)
+Changing market factors
+In the following route demo, we use real voyage data to compare the effectiveness of Wayfinderâs continuously optimized route guidance and non-optimized route guidance that recommends preset waypoints and constant speed.
+Demo
+In
+Figure 1
+, we compare the two following routing scenarios for a bulk carrier traveling from Asia to the west coast of the United States:
+Non-optimized route (orange line):
+This route uses constant speed and fixed waypoints set prior to the start of the voyage. A mid-voyage diversion (i.e. adjusted waypoints) is included to simulate a Captain rapidly changing course due to inclement weather. While vessels often change speed in response to inclement weather, this non-optimized route guidance assumes that constant speed is maintained to meet a required time of arrival.
+Wayfinder optimized route (green line):
+This route is continuously optimized during the voyage. RPM and waypoint guidance is assessed daily by Sofarâs Wayfinder platform.
+The colored background layer in
+Figure 1
+represents the significant wave height in the northern Pacific Ocean. Each yellow pentagon represents the position of a Sofar
+Spotter buoy
+. Weather data and the positions of the Spotters and vessels are valid for March 2, 2022, at 06:00Z. The red (parametric roll warning) and pink (synchronous roll warning) pill-shaped areas along each route represent parts of the journey identified by Wayfinder as particularly high-risk due to inclement weather.
+Figure 1.
+The Wayfinder optimized route (green line) and non-optimized route (orange line) for a bulk carrier traveling from Asia to the west coast of the United States. The colored background layer represents significant wave height in the northern Pacific Ocean; each yellow pentagon represents the position of a Spotter buoy; the red and pink pill-shaped areas along each route represent parametric roll warnings and synchronous roll warnings, respectively, issued by Wayfinder.
+Figure 2
+shows the significant wave heights encountered by the vessels in each routing scenario along their respective paths. The vessel on the Wayfinder optimized route â which we will call
+Vessel A
+â spends less time in high wave conditions compared to the vessel on the non-optimized route, which we call
+Vessel B
+. Notably,
+Vessel A
+encounters a maximum wave height of just over 5 meters, while
+Vessel B
+encounters waves larger than 7.5 meters.
+Figure 2.
+The significant wave heights encountered along the Wayfinder optimized route (green line) and the non-optimized route (orange line).
+Figure 3
+shows a time series of the vesselsâ average RPM over 12-hour intervals along each route.
+Vessel A
+follows the daily RPM guidance sent by the Wayfinder platform.
+Vessel B
+âs RPM is adjusted to maintain constant speed.
+Figure 4
+shows a time series of the vesselsâ speed along each route.
+Vessel Aâs
+speed fluctuates in response to the daily RPM adjustments recommended by Wayfinder, as well as to variations in the weather conditions that it encounters, such as ocean currents and wind speed.
+Vessel Bâs
+speed is held constant.
+Figure 3 (left).
+Time series of the vesselsâ average RPM over 12-hour intervals along the Wayfinder optimized route (green line) and non-optimized route (orange line).
+Figure 4 (right):
+Time series of the vesselsâ velocity along the Wayfinder optimized route (green line) and non-optimized route (orange line).
+Three time series of the vesselsâ cost of trip (
+Figure 5
+), total fuel consumed (
+Figure 6
+), and emissions (
+Figure 7
+) along each route are shown below. Cost of trip, total fuel consumed, and emissions are closely related: the more fuel a vessel burns, the greater its emissions output and voyage cost will be.
+Figure 5 (left).
+Time series of the vesselsâ cost of trip along the Wayfinder optimized route (green line) and non-optimized route (orange line).
+Figure 6 (middle).
+Time series of the vesselsâ total fuel consumed along the Wayfinder optimized route (green line) and non-optimized route (orange line).
+Figure 7 (right).
+Time series of the vesselsâ emissions along the Wayfinder optimized route (green line) and non-optimized route (orange line).
+Collectively, these times series show that:
+Vessel Aâs
+cost of trip is less than
+Vessel Bâs
+cost of trip for the entire duration of the voyage. Cumulatively, following the Wayfinder optimized route saves $13,463.78. (
+Figure 5
+).
+Vessel A
+burns less fuel than
+Vessel B
+for the entire duration of the voyage. Cumulatively, following the Wayfinder optimized route saves 31.08 MT of fuel relative to the non-optimized route (
+Figure 6
+).
+Vessel A
+produces fewer emissions than
+Vessel B
+for the entire duration of the voyage. Cumulatively, following the Wayfinder optimized route saves 88.82 MT of CO
+2
+relative to the non-optimized route (
+Figure 7
+).
+Analysis
+Vessel A
+has superior cost, fuel, and emissions outcomes relative to
+Vessel B
+. Why? The key differentiator is the voyage guidance underpinning the Wayfinder optimized route and the non-optimized route. Letâs break it down:
+Early in the voyage,
+Vessel A
+and
+Vessel B
+follow nearly identical waypoints.
+Vessel B
+travels at a constant speed of 11 knots (~5.66 m/s), while
+Vessel A
+â which is receiving daily RPM guidance from Wayfinder â travels at variable speeds that are consistently slower than 11 knots. As a result,
+Vessel B
+covers more distance and consumes more fuel than
+Vessel A
+early in the voyage.
+As the vessels enter the open ocean, their paths diverge dramatically.
+Vessel A
+follows a southerly course and reduces its RPM and speed to avoid a storm system that Wayfinder forecasts will develop in the northern Pacific later in the voyage.
+Vessel B
+, which is following fixed waypoints set prior to the voyage, takes a northerly course at constant speed. This exposes
+Vessel B
+to the storm system and, despite a late diversion to avoid the stormâs effects, it sails through dangerous waves larger than 7.5 meters.
+Vessel A
+and
+Vessel B
+âs distinct courses highlight the importance of daily, continuous route guidance, as well as highly accurate weather forecasts.
+White paper:
+The key components of an effective voyage optimization platform
+After avoiding the storm,
+Vessel A
+takes advantage of calm seas and increases its RPM and speed significantly, while
+Vessel B
+continues to travel at constant speed. On March 4th, for example,
+Vessel A
+travels nearly 4 knots (~2 m/s) faster than
+Vessel B
+; during stretches like these,
+Vessel A
+makes up some of the distance and time lost earlier in the voyage when it adjusted its RPM and course to avoid the storm.
+Later in the voyage,
+Vessel A
+and
+Vessel B
+both sail through stretches of rough seas; in
+Figure 1
+, these high-risk areas are represented by the red (parametric roll warning) and pink (synchronous roll warning) pill-shaped areas along each route.
+Vessel A
+consistently decreases its RPM when sailing through these treacherous areas. For example, on March 5th,
+Vessel A
+receives a high-risk synchronous roll warning from Wayfinder; in response, it decreases its RPM from ~65 to ~56, which lowers its speed by nearly 6 knots (~3 m/s).
+Vessel B
+, which sails through roll risk areas for nearly three straight days starting on March 6th,
+increases
+its RPM to as high as ~76 during this period to maintain constant speed and meet its required time of arrival. As a result,
+Vessel B
+experiences elevated safety risk and burns more fuel, further widening the gap between its energy consumption and that of
+Vessel A
+.
+Ultimately,
+Vessel A
+arrives at port just three hours after
+Vessel B
+, despite traveling an additional 134.86 nautical miles.
+Vessel B
+âs minimal time savings come at an extremely high cost: it spends $13,463.78 more dollars, burns 31.08 MT more fuel, and produces 88.82 MT more CO
+2
+emissions than
+Vessel A
+.
+By following Wayfinderâs route guidance,
+Vessel A
+accesses continuously optimized RPM and waypoint recommendations, allowing it to sail as efficiently as possible given changing ocean weather and economic factors. By sailing at a constant speed with inflexible waypoints,
+Vessel B
+becomes more susceptible to inclement weather and suboptimal voyage outcomes. Whether maintaining constant speed, power, or route, sailing without continuous optimization will always produce inferior results.
+To learn more about Wayfinder, check out its
+product page
+. To schedule a demo with the Wayfinder team, please fill out this short
+form
+.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Announcements
+April 11, 2023
+Star Bulk and Eagle Bulk enhance voyage optimization capabilities with Sofar Oceanâs Wayfinder platform
+Ocean Science
+March 2, 2023
+An Ocean Scientist explains... the Carbon Intensity Indicator (CII)
+Ocean Science
+June 6, 2022
+Everything you need to know about the Carbon Intensity Indicator (CII)
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

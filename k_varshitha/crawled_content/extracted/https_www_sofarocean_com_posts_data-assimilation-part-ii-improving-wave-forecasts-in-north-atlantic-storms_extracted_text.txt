@@ -1,1 +1,88 @@
-data assimilation part ii improving the wave forecast of a north atlantic storm sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch ocean science ocean science analysis data assimilation part ii improving the wave forecast of a north atlantic storm in part two of our twopart data assimilation series we put our methodology to the test in a realworld storm scenario in the north atlantic sofar ocean may 14 2022 ï back ocean science ocean science analysis data assimilation part ii improving the wave forecast of a north atlantic storm sofar ocean this is part two of our twopart data assimilation series looking for part one access it here  in part one of our data assimilation series we introduced the concept and explained how the incorporation of critical wave direction and period information has improved our teamâs ability to produce accurate realtime weather forecasts now letâs take a look at a realworld data assimilation scenario in march 2022 a cluster of our spotter buoys were on the edge of a large storm in the north atlantic ocean to test the efficacy of our data assimilation approach letâs compare the accuracy of two forecasts of this storm a forecast that uses data assimilation by incorporating buoy data from the spotters a forecast that does not use data assimilation and does not incorporate buoy data from the spotters the topmost panel in figure 1 below shows the forecast initial state from the sofar operational forecast which assimilates spotter buoy data the middle panel in figure 1 shows the same forecast without data assimilation the bottommost panel in figure 1 shows the numerical difference in the significant wave height forecasted at different points by the sofar operational forecast and the âno data assimilationâ forecast figure 1 this visual shows a comparison between sofarâs operational forecast which assimilates spotter buoy data topmost panel and the same forecast without data assimilation middle panel by measuring the differences in the significant wave height forecasted at different points we can identify the areas where these two forecast systems predict different wave conditions bottommost panel the sofar operational forecast accurately predicted bigger waves throughout a larger region at first glance the sofar operational forecast âdata assimilationâ in the topmost panel and the âno data assimilationâ forecast in the middle panel look quite similar however when we analyze the differences in significant wave height shown in the bottommost panel we start to see very large divergences in some cases up to five feet forecast deviations of this size represent the difference between a safe and unsafe voyage offshore worksite coastal community etc a ship at sea that is accessing the sofar operational forecast via our wayfinder tool for example would receive updates that tell a more accurate story about this severe storm its large waves and the vast geographic area that it coversâ comparing forecasts to actual buoy observations while figure 1 shows only the initial state of the forecasts we can also go back in time to see which forecast tracked more closely to the actual observations made by the spotter buoys on the edge of the storm at each buoy the sofar operational forecast outperformed the âno data assimilationâ forecast predicting wave heights closer to what the buoys actually measured this performance gap is illustrated in figure 2 each spotter buoys observed wave height dark blue bar represents the actual type of wave that say a container ship would encounter as it passed through the storm the wave height forecasted by sofarâs operational forecast âdata assimilationâ light blue bar and the wave height forecasted by the âno data assimilationâ forecast bluegray bar represent the information that a container ship captain would have access to 12 hours prior to encountering the storm system figure 2 this visual shows a comparison between the significant wave heights measured by the spotter buoy dark blue bar sofarâs operational forecast âdata assimilationâ light blue bar and the âno data assimilationâ forecast bluegray bar at the geographic location of each spotter buoy for all buoys the sofar operational forecast outperformed the âno data assimilationâ forecast predicting wave heights that tracked closer to the actual observations made by each buoy while these differences may seem small to a frequent user of ocean data they can be critical shipping companies for instance need accurate realtime wave data to avoid turning optimized voyages into inefficient weatherrestricted journeys the power of data assimilation lies in its ability to use realtime insitu observations to continuously improve weather forecasts in the future at sofar ocean we are proud to be helping pioneer use of this data technique from the coasts to the open ocean and are excited to continue to refine our approach â missed part one of our data assimilation series check it out here  stay tuned for future blog posts detailing the evolution of our data assimilation approach â  â updated july 26 2022 sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories product march 16 2020 spotter data partitioning for sea and swell product march 24 2017 data validation statistics at mavericks about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Data assimilation part II: improving the wave forecast of a North Atlantic storm
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Ocean Science
+Ocean Science
+Analysis
+Data assimilation part II: improving the wave forecast of a North Atlantic storm
+In part two of our two-part data assimilation series, we put our methodology to the test in a real-world storm scenario in the North Atlantic.
+Sofar Ocean
+May 14, 2022
+ï
+Back
+Ocean Science
+Ocean Science
+Analysis
+Data assimilation part II: improving the wave forecast of a North Atlantic storm
+Sofar Ocean
+This is part two of our two-part data assimilation series. Looking for part one? Access it
+here
+.
+In
+part one
+of our data assimilation series, we introduced the concept and explained how the incorporation of critical wave direction and period information has improved our teamâs ability to produce accurate, real-time weather forecasts. Now, letâs take a look at a real-world data assimilation scenario.
+In March 2022, a cluster of our
+Spotter
+buoys were on the edge of a large storm in the North Atlantic Ocean. To test the efficacy of our data assimilation approach, letâs compare the accuracy of two forecasts of this storm:
+A forecast that uses data assimilation by incorporating buoy data from the Spotters.
+A forecast that does not use data assimilation and does not incorporate buoy data from the Spotters.
+The top-most panel in Figure 1 below shows the forecast initial state from the Sofar Operational Forecast, which assimilates Spotter buoy data. The middle panel in Figure 1 shows the same forecast without data assimilation. The bottom-most panel in Figure 1 shows the numerical difference in the significant wave height forecasted at different points by the Sofar Operational Forecast and the âNo Data Assimilationâ forecast.
+Figure 1: This visual shows a comparison between Sofarâs Operational Forecast, which assimilates Spotter buoy data (top-most panel), and the same forecast without data assimilation (middle panel). By measuring the differences in the significant wave height forecasted at different points, we can identify the areas where these two forecast systems predict different wave conditions (bottom-most panel). The Sofar Operational Forecast accurately predicted bigger waves throughout a larger region.
+At first glance, the Sofar Operational Forecast (âData Assimilationâ) in the top-most panel and the âNo Data Assimilationâ forecast in the middle panel look quite similar. However, when we analyze the differences in significant wave height shown in the bottom-most panel, we start to see very large divergences, in some cases up to five feet! Forecast deviations of this size represent the difference between a safe and unsafe voyage, offshore worksite, coastal community, etc. A ship at sea that is accessing the Sofar Operational Forecast via our
+Wayfinder
+tool, for example, would receive updates that tell a more accurate story about this severe storm, its large waves, and the vast geographic area that it covers.Â
+Comparing Forecasts to Actual Buoy Observations
+While Figure 1 shows only the initial state of the forecasts, we can also go back in time to see which forecast tracked more closely to the actual observations made by the Spotter buoys on the edge of the storm.
+At each buoy, the Sofar Operational Forecast outperformed the âNo Data Assimilationâ forecast, predicting wave heights closer to what the buoys actually measured. This performance gap is illustrated in Figure 2. Each Spotter buoy's observed wave height (dark blue bar) represents the actual type of wave that, say, a container ship would encounter as it passed through the storm. The wave height forecasted by Sofarâs Operational Forecast (âData Assimilationâ, light blue bar) and the wave height forecasted by the âNo Data Assimilationâ forecast (blue-gray bar) represent the information that a container ship Captain would have access to 12 hours prior to encountering the storm system.
+Figure 2: This visual shows a comparison between the significant wave heights measured by the Spotter buoy (dark blue bar), Sofarâs Operational Forecast (âData Assimilationâ, light blue bar), and the âNo Data Assimilationâ forecast (blue-gray bar) at the geographic location of each Spotter buoy. For all buoys, the Sofar Operational Forecast outperformed the âNo Data Assimilationâ forecast, predicting wave heights that tracked closer to the actual observations made by each buoy.
+While these differences may seem small, to a frequent user of ocean data, they can be critical; shipping companies, for instance, need accurate, real-time wave data to avoid turning optimized voyages into inefficient, weather-restricted journeys.
+The power of data assimilation lies in its ability to use real-time, in-situ observations to continuously improve weather forecasts in the future. At Sofar Ocean, we are proud to be helping pioneer use of this data technique from the coasts to the open ocean, and are excited to continue to refine our approach.
+â
+Missed part one of our data assimilation series? Check it out
+here
+. Stay tuned for future blog posts detailing the evolution of our data assimilation approach.
+â
+--
+â
+Updated July 26, 2022
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Product
+March 16, 2020
+Spotter Data Partitioning for "sea" and "swell"
+Product
+March 24, 2017
+Data validation: statistics at Mavericks
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

@@ -1,1 +1,107 @@
-how sofar forecasts improve ocean swell predictions sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch ocean science ocean science analysis how sofar forecasts improve ocean swell predictions an indepth look at how the observations made by our spotter buoy network strengthen ocean swell predictions sofar ocean september 16 2022 ï back ocean science ocean science analysis how sofar forecasts improve ocean swell predictions sofar ocean ocean swells travel great distances moving thousands of miles across the sea before they reach the coast in the open ocean swell waves have a major impact on vessels causing unwanted rolling that can create dangerous conditions at sea and lead to cargo losses on container ships  once they reach the coast swells take on a more familiar form acting as the catalyst for great surf or combining with high tides to wreak havoc on shorelines and cause coastal flooding and erosionâ â at sofar we use measurements of wave energy collected by our spotter buoys to improve our forecasts  in this blog weâll demonstrate how wave buoy data helps us more accurately predict the arrival of ocean swell â tracking a major swell in hawaiâi recently 6 m swell waves crashed upon the shores of hawaiâi 6 m waves are nearly 20 ft tall which by surfline âs layman standards are classified as  itâs just really big  to give you a sense of scale a 20 ft wave is the same size as two basketball hoops stacked on top of one another footage of the swell waves sweeping away tables and chairs during a wedding ceremony went viral and oâahu lifeguard and rescue teams responded to at least 1960 rescue calls during the weekend of the swell event read lifeguard accounts from the weekend in outside âs article inside one of the craziest long weekends of lifeguard rescues in oahu history  how do waves like these form as strong winds blow against the ocean surface they generate wind waves if winds are sustained over a long period of time short wind waves transform into long period waves as the waves propagate away from the storm the longer waves travel faster and the wave field separates into long period energetic forerunners and less energetic shorter period waves the leading waves are what we typically call swell we capture this difference by measuring the wave period or the time it takes for two wave crests to pass by a given location if you are on a ship during a windy storm a lot of wind waves would pass under the ship in a short amount of time there might be some white capping on the waves and you might feel the waves coming from all different directions as the boat rocks and rolls swell waves have much larger wave periods so if you are on a boat far away from the storm the boat would slowly roll in the direction of the waves as the ocean swell propagates figure 1 this figure demonstrates that winds during storms create short high frequency wind waves close to the storm far from the storm ocean swell has longer wavelengths and lower frequencies the swell that produced the waves in hawaiâi started about 4500 miles away the result of a major storm in the southern ocean just east of new zealand in figure 2 below the maps highlight how far the ocean swell waves traveled in the five days it took them to reach hawaiâi the upper panel shows the significant wave height which is the average of the upper third of individual wave heights the bottom panel shows the peak period the period in which we measured or predicted the most wave energy the regions where the peak period is longest show the location of the swell waves figure 2 â despite being over 4000 miles away waves from the storm east of new zealand travelled to the coast of hawaiâi five days later the upper panel shows significant wave height to highlight the location of the storm relative to hawaiâi the bottom panel shows the wave peak period five days later when the swell reaches hawaiâi locations of spotter buoys are indicated by yellow pentagons the swell waves traveled at a speed somewhere in between that of a car and a cargo ship if you were driving the distance the waves propagated in a car on the highway it would take you three days of driving 65 mph without stopping to reach hawaii a cargo vessel could traverse the same distance in about a week the fact that the swell moved at a faster pace than a standard cargo ship is significant a ship could be thousands of miles away from a storm but still feel the impact of the swell waves that the storm creates thus it is critical for ships at sea â using tools like our wayfinder platform â to access accurate predictions of wave height and period figure 3 displaysâ animations that show how wave forecasts of the swell changed over time in the upper panel the storm generates large waves in the southern ocean as time progresses the peak period animation in the lower panel shows how the swell waves propagate outward from the storm and eventually reach the coast of hawaiâi figure 3 in this animated version of figure 2 we show how the forecast for significant wave height upper panel and wave peak period lower panel change over time each frame represents a one hour interval showing that even as the storm dissipates near its origin point swell waves still disperse and spread outward across the ocean basin locations of spotter buoys are indicated by yellow pentagons â figure 4 below shows how our forecasts of the hawaiâi swell compare to those produced by the european centre for mediumrange weather forecasts ecmwf each forecastâs performance is measured against the actual observations recorded by a spotter buoy just south of hawaiâi in the upper panel we compare the significant wave height of the swell waves youâll notice that the sofar forecast predicts the waves to be upwards of 2 m at this buoy which is consistent with what was actually observed ecwmf slightly underpredicts the largest significant wave height and predicts wave heights to start increasing sooner than they actually did in the lower panel we compare peak period since swell waves have long wave periods the time at which the swell waves reach the buoy is indicated by the large jump in peak period comparing forecasts from july 13th â three days before the swell waves arrived at this buoys location â we see that the ecwmf forecast predicted the swell to arrive 12 hours too early while the sofar forecast closely predicted the arrival time figure 4 the upper panel shows the swell component of significant wave height over time measured by a spotter buoy near hawaiâi black and the same swell as forecasted by sofar dark blue and ecmwf light blue at the buoyâs location the bottom plot shows the same for the peak period all forecast predictions are three day forecasts sofar swell predictions are in line with the buoy observations whereas ecmwf predicts swell arrival 12 hours too early these forecast differences can have major implications at sea imagine you are a ship captain trying to plan your voyage and there is a large storm in the distance while the storm may be far away because swell waves propagate across ocean basins they could impact your journey the ability to accurately predict days in advance whether or not the stormâs swell waves will cross your path is critical sofars ocean weather forecasts which are the engine powering our wayfinder dynamic voyage optimization platform unlock that predictive power to learn more about our forecasting approach check out our twopart series on data assimilation  part i  part ii  to read up on our wayfinder dynamic voyage optimization platform peruse our recent wayfinder blog  sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories ocean science may 14 2022 data assimilation part i bringing ocean observations into wave forecasts product march 16 2020 spotter data partitioning for sea and swell product august 29 2022 how wayfinder helps vessels avoid storms about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+How Sofar forecasts improve ocean swell predictions
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Ocean Science
+Ocean Science
+Analysis
+How Sofar forecasts improve ocean swell predictions
+An in-depth look at how the observations made by our Spotter buoy network strengthen ocean swell predictions.
+Sofar Ocean
+September 16, 2022
+ï
+Back
+Ocean Science
+Ocean Science
+Analysis
+How Sofar forecasts improve ocean swell predictions
+Sofar Ocean
+Ocean swells
+travel great distances, moving thousands of miles across the sea before they reach the coast. In the open ocean, swell waves have a major impact on vessels, causing unwanted rolling that can create dangerous conditions at sea and
+lead to cargo losses on container ships
+. Once they reach the coast, swells take on a more familiar form, acting as the catalyst for great surf or combining with high tides to wreak havoc on shorelines and cause coastal flooding and erosion.Â Â
+At Sofar, we use measurements of
+wave energy collected by our Spotter buoys to improve our forecasts
+.
+In this blog, weâll demonstrate how wave buoy data helps us more accurately predict the arrival of ocean swell.
+â
+Tracking a Major Swell in Hawaiâi
+Recently, 6 m swell waves crashed upon the shores of Hawaiâi. 6 m waves are nearly 20 ft tall, which by
+Surfline
+âs layman standards are classified as "
+itâs just really big
+!" To give you a sense of scale, a 20 ft wave is the same size as two basketball hoops stacked on top of one another. Footage of the swell waves sweeping away
+tables and chairs during a wedding ceremony
+went viral, and Oâahu lifeguard and rescue teams responded to at least 1,960 rescue calls during the weekend of the swell event. Read lifeguard accounts from the weekend in
+Outside
+âs article
+Inside One of the Craziest Long Weekends of Lifeguard Rescues in Oahu History
+.
+How do waves like these form? As strong winds blow against the ocean surface, they generate wind waves. If winds are sustained over a long period of time, short wind waves transform into long period waves. As the waves propagate away from the storm, the longer waves travel faster, and the wave field separates into long period energetic fore-runners, and less energetic shorter period waves. The leading waves are what we typically call swell. We capture this difference by measuring the wave period, or the time it takes for two wave crests to pass by a given location. If you are on a ship during a windy storm, a lot of wind waves would pass under the ship in a short amount of time. There might be some white capping on the waves and you might feel the waves coming from all different directions as the boat rocks and rolls. Swell waves have much larger wave periods, so if you are on a boat far away from the storm, the boat would slowly roll in the direction of the waves as the ocean swell propagates.
+Figure 1: This figure demonstrates that winds during storms create short, high frequency wind waves close to the storm. Far from the storm, ocean swell has longer wavelengths and lower frequencies.
+The swell that produced the waves in Hawaiâi started about 4,500 miles away, the result of a major storm in the Southern Ocean, just east of New Zealand.
+In Figure 2 below, the maps highlight how far the ocean swell waves traveled in the five days it took them to reach Hawaiâi. The upper panel shows the significant wave height, which is the average of the upper third of individual wave heights. The bottom panel shows the peak period, the period in which we measured or predicted the most wave energy. The regions where the peak period is longest show the location of the swell waves.
+Figure 2: Â Despite being over 4000 miles away, waves from the storm east of New Zealand travelled to the coast of Hawaiâi five days later. The upper panel shows significant wave height to highlight the location of the storm relative to Hawaiâi. The bottom panel shows the wave peak period five days later when the swell reaches Hawaiâi. Locations of Spotter buoys are indicated by yellow pentagons.
+The swell waves traveled at a speed somewhere in between that of a car and a cargo ship. If you were driving the distance the waves propagated in a car on the highway, it would take you three days of driving 65 mph (without stopping!) to reach Hawai'i. A cargo vessel could traverse the same distance in about a week.
+The fact that the swell moved at a faster pace than a standard cargo ship is significant. A ship could be thousands of miles away from a storm, but still feel the impact of the swell waves that the storm creates. Thus, it is critical for ships at sea â using tools like our
+Wayfinder
+platform â to access accurate predictions of wave height and period.
+Figure 3 displaysÂ animations that show how wave forecasts of the swell changed over time. In the upper panel, the storm generates large waves in the Southern Ocean. As time progresses, the peak period animation in the lower panel shows how the swell waves propagate outward from the storm and eventually reach the coast of Hawaiâi.
+Figure 3: In this animated version of Figure 2, we show how the forecast for significant wave height (upper panel) and wave peak period (lower panel) change over time. Each frame represents a one hour interval, showing that, even as the storm dissipates near its origin point, swell waves still disperse and spread outward across the ocean basin. Locations of Spotter buoys are indicated by yellow pentagons.
+â
+Figure 4 below shows how our forecasts of the Hawaiâi swell compare to those produced by the European Centre for Medium-Range Weather Forecasts (ECMWF). Each forecastâs performance is measured against the actual observations recorded by a Spotter buoy just south of Hawaiâi. In the upper panel, we compare the significant wave height of the swell waves. Youâll notice that the Sofar forecast predicts the waves to be upwards of 2 m at this buoy, which is consistent with what was actually observed. ECWMF slightly under-predicts the largest significant wave height and predicts wave heights to start increasing sooner than they actually did.
+In the lower panel, we compare peak period. Since swell waves have long wave periods, the time at which the swell waves reach the buoy is indicated by the large jump in peak period. Comparing forecasts from July 13th â three days before the swell waves arrived at this buoy's location â we see that the ECWMF forecast predicted the swell to arrive 12 hours too early, while the Sofar forecast closely predicted the arrival time.
+Figure 4: The upper panel shows the swell component of significant wave height over time measured by a Spotter buoy near Hawaiâi (black), and the same swell as forecasted by Sofar (dark blue) and ECMWF (light blue) at the buoyâs location. The bottom plot shows the same for the peak period. All forecast predictions are three day forecasts. Sofar swell predictions are in line with the buoy observations, whereas ECMWF predicts swell arrival 12 hours too early.
+These forecast differences can have major implications at sea. Imagine you are a ship Captain trying to plan your voyage and there is a large storm in the distance. While the storm may be far away, because swell waves propagate across ocean basins, they could impact your journey.
+The ability to accurately predict days in advance whether or not the stormâs swell waves will cross your path is critical.
+Sofar's ocean weather forecasts, which are the engine powering our Wayfinder dynamic voyage optimization platform, unlock that predictive power.
+To learn more about our forecasting approach, check out our two-part series on data assimilation (
+Part I
+,
+Part II
+). To read up on our Wayfinder dynamic voyage optimization platform, peruse our
+recent Wayfinder blog
+.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Ocean Science
+May 14, 2022
+Data assimilation part I: bringing ocean observations into wave forecasts
+Product
+March 16, 2020
+Spotter Data Partitioning for "sea" and "swell"
+Product
+August 29, 2022
+How Wayfinder helps vessels avoid storms
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

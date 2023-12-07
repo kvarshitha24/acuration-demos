@@ -1,1 +1,78 @@
-announcing spotter v2 with sst sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch announcements announcements spotter system announcing spotter v2 with sst over time weâve learned from our deployments in the field to make gradual refinements in material choices and mechanical design to spotter with these changes and a newly incorporated sensor we are proud to introduce spotter v2 sofar ocean january 1 2021 ï back announcements announcements spotter system announcing spotter v2 with sst sofar ocean since its launch in 2017 spotter has been deployed by researchers industries governments and ocean enthusiasts all over the world and as a community of users weâve learned a ton spotters have racked up over a million ocean hours in climates ranging from the tropics subtropics and arctic and thatâs a pretty big deal at least we think soâ â over time weâve learned from our deployments in the field to make gradual refinements in material choices and mechanical design to spotter with these changes and a newly incorporated sensor we are proud to introduce spotter v2â spotter v2â incorporates all our learnings from extended deployments by users in every part of the world and in every type of weather the new release also includes an optional digital temperature sensor that provides an accuracy of 01c and a precision of 002c we have mounted the sensor in an insulated stainless steel penetrator to provide excellent thermal contact with the waterâ with spotter v2 realtime sea surface temperature is directly available via your dashboard through the api and is stored on the sd card â spotter v2 still comes standard with all of the data available in spotter v1 in addition we are releasing our latest firmware update for spotter v2 and v1 â firmware 180 includes latest parsing script  version 180 last updated october 31 2019 includes  ability to parse 180 data  correlates spotter millis time to epoch time in sst log files latest firmware update â  â version 180 last updated october 31 2019 âincludes  spotter is now more power efficient with compatible hardware  spotter sampling period is more consistently exactly 30 minutes long â check out the spotter platform page here for more information or to purchase your own sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories ocean science march 15 2019 spotter measures surface winds ocean science february 26 2020 the science behind sofar ocean marine weather forecasts about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Announcing Spotter v2 with SST
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Announcements
+Announcements
+Spotter System
+Announcing Spotter v2 with SST
+Over time weâve learned from our deployments in the field to make gradual refinements in material choices and mechanical design to Spotter. With these changes and a newly incorporated sensor, we are proud to introduce: Spotter v2.
+Sofar Ocean
+January 1, 2021
+ï
+Back
+Announcements
+Announcements
+Spotter System
+Announcing Spotter v2 with SST
+Sofar Ocean
+Since its launch in 2017, Spotter has been deployed by researchers, industries, governments, and ocean enthusiasts all over the world. And as a community of users weâve learned a ton. Spotters have racked up over a million ocean hours in climates ranging from the tropics, subtropics and arctic. And thatâs a pretty big deal. At least we think so.Â Â
+Over time weâve learned from our deployments in the field to make gradual refinements in material choices and mechanical design to Spotter. With these changes and a newly incorporated sensor, we are proud to introduce: Spotter v2.Â
+Spotter V2Â  incorporates all our learnings from extended deployments by users in every part of the world, and in every type of weather. The new release also includes an optional digital temperature sensor that provides an accuracy of +/-0.1C and a precision of 0.02C. We have mounted the sensor in an insulated stainless steel penetrator to provide excellent thermal contact with the water.Â
+With Spotter v2, real-time sea surface temperature is directly available via your dashboard, through the API, and is stored on the SD card.
+â
+Spotter v2 still comes standard with all of the data available in Spotter v1. In addition we are releasing our latest firmware update for Spotter v2 and v1.
+â
+Firmware 1.8.0 Includes:
+Latest Parsing script: | Version 1.8.0 (last updated: October 31, 2019)
+Includes:
+- Ability to parse 1.8.0 data
+- Correlates Spotter millis time to epoch time in SST log files
+Latest Firmware Update Â | Â Version 1.8.0 (last updated: October 31, 2019)
+âIncludes:
+- Spotter is now more power efficient with compatible hardware
+- Spotter sampling period is more consistently exactly 30 minutes long
+â
+Check out the Spotter platform page
+here
+for more information or to purchase your own.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Ocean Science
+March 15, 2019
+Spotter measures surface winds
+Ocean Science
+February 26, 2020
+The Science Behind Sofar Ocean Marine Weather Forecasts
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

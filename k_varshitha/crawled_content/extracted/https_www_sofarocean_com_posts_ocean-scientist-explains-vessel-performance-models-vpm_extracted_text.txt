@@ -1,1 +1,74 @@
-an ocean scientist explains vessel performance models vpm sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch ocean science ocean science wayfinder analysis an ocean scientist explains vessel performance models vpm sofar ocean data scientist galen egan phd provides an indepth explanation of vessel performance models vpm and breaks down the key components of our wayfinder voyage optimization platforms adaptivevpmâ sofar ocean april 26 2023 ï back ocean science ocean science wayfinder analysis an ocean scientist explains vessel performance models vpm sofar ocean a vessel performance model vpm is a key component of an effective voyage optimization platform  a vpm calculates the relationship between a vesselâs propeller rpm engine power speed and fuel consumption and predicts how that relationship will change in different sea states a vpmâs predictions in turn inform the route guidance that a voyage optimization platform sends to a captain in the video above sofar ocean data scientist galen egan phd provides an indepth explanation of vpms detailing why it is essential that a vpm accurately predicts speed and fuel consumption in all weather conditions why a vpmâs predictions are valuable to captains and navigational officers as well as shoreside teams how adaptivevpmâ â the vessel performance model powering sofarâs wayfinder voyage optimization platform â predicts vessel speed within an average of 05 knots and fuel consumption within an average of 2 of metric tons consumed to schedule a demo with the wayfinder team please fill out this form  sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories white papers april 14 2023 white paper the key components of an effective voyage optimization platform ocean science march 2 2023 an ocean scientist explains the carbon intensity indicator cii product april 11 2023 wayfinder voyage optimization demo about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+An Ocean Scientist explains... Vessel Performance Models (VPM)
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Ocean Science
+Ocean Science
+Wayfinder
+Analysis
+An Ocean Scientist explains... Vessel Performance Models (VPM)
+Sofar Ocean Data Scientist Galen Egan, PhD provides an in-depth explanation of Vessel Performance Models (VPM) and breaks down the key components of our Wayfinder voyage optimization platform's AdaptiveVPMâ¢.
+Sofar Ocean
+April 26, 2023
+ï
+Back
+Ocean Science
+Ocean Science
+Wayfinder
+Analysis
+An Ocean Scientist explains... Vessel Performance Models (VPM)
+Sofar Ocean
+A Vessel Performance Model (VPM) is a key component of an
+effective voyage optimization platform
+. A VPM calculates the relationship between a vesselâs propeller RPM, engine power, speed, and fuel consumption, and predicts how that relationship will change in different sea states. A VPMâs predictions, in turn, inform the route guidance that a voyage optimization platform sends to a Captain. In the video above, Sofar Ocean Data Scientist Galen Egan, PhD provides an in-depth explanation of VPMs, detailing:
+Why it is essential that a VPM accurately predicts speed and fuel consumption in all weather conditions
+Why a VPMâs predictions are valuable to Captains and Navigational Officers, as well as shoreside teams
+How AdaptiveVPMâ¢ â the vessel performance model powering Sofarâs
+Wayfinder
+voyage optimization platform â predicts vessel speed within an average of 0.5 knots and fuel consumption within an average of 2% of metric tons consumed
+To schedule a demo with the Wayfinder team, please fill out this
+form
+.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+White Papers
+April 14, 2023
+White paper: The key components of an effective voyage optimization platform
+Ocean Science
+March 2, 2023
+An Ocean Scientist explains... the Carbon Intensity Indicator (CII)
+Product
+April 11, 2023
+Wayfinder Voyage Optimization Demo
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

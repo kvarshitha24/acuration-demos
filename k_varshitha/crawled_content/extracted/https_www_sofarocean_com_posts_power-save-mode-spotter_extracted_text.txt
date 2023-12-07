@@ -1,1 +1,99 @@
-how power save mode increases spotterâs battery life and deployment duration at high latitudes sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch product product spotter system how power save mode increases spotterâs battery life and deployment duration at high latitudes spotterâs power save mode turns off its gps sensor during sampling dwell periods increasing battery life by at least 25 and extending its deployment duration at high latitudes sofar ocean may 12 2023 ï back product product spotter system how power save mode increases spotterâs battery life and deployment duration at high latitudes sofar ocean sofarâs durable spotter buoy platform is designed to withstand harsh ocean conditions from aquaculture operations in norway to seaice interaction research in the arctic  customers around the world trust spotter to collect and transmit ocean data in the most extreme environmentsâ a key component of spotterâs durability is its longevity many customers use their spotters which are powered by lithiumion batteries and solar panels for multiyear deployments longer deployment windows enable more data collection and minimize the operational costs of retrieving or manually recharging a spotter our team is always looking for innovative ways to increase spotterâs battery life and keep it in the water for as long as possible power save mode is a new feature that enables customers to increase their spotterâs battery life today power save mode turns off spotterâs gps sensor during sampling dwell periods increasing its battery life by at least 25 and significantly extending the duration of its deployment at high latitudes  below we discuss power save mode indepth highlighting the customers that will benefit from it the most and detailing how to equip your spotter with the feature extended battery life is crucial for spotters deployed in sunstarved locations 15 of customers deploy their spotters in sunstarved environments where extended battery life is particularly valuable extended battery life is valuable for all spotter users but it is particularly critical for customers collecting ocean data in sunstarved locations in these environments which include countries in the high latitudes lowlight areas and foggy regions spotterâs solar panels naturally generate less power reducing the lifespan of the deviceâs lithiumion battery a spotter configured with standard data collection settings â wavesstandard mode with a 60minute update rate â will typically last through winter at 55 degrees of latitude without being manually recharged any spotter that loses power will turn back on once exposed to ample sunlight 15 of spotter customers deploy in sunstarved environments a percentage that we expect to increase as the maritime industry and research community continue to push ocean data collection to the extremes the truncated cycle of installation and retrieval that these customers experience due to power limitations raises the stakes of each deployment greatly increasing the value of time saved between recharges using power save mode during sampling dwell periods power save mode extends spotterâs battery life by capitalizing on sampling dwell periods when a spotterâs sampling rate how frequently it collects data is shorter than its update rate how frequently it transmits that data a dwell period exists between sampling events for example if a customer configures their spotter to collect data in wavesstandard mode with a 30minute sampling rate and a 60minute update rate there will be a 30minute sampling dwell period during this dwell period spotter does not collect wave data and does not perform spectral analysis this minimizes the importance of spotterâs gps sensor which collects location data that is central to the deviceâs wave and wind measurements a schematic of the sampling and update intervals for a spotter in wavesstandard mode this spotter has a 30minute sampling rate and a 60minute update rate during the resulting 30minute sampling dwell period power save mode can be used to extend spotterâs battery life â historically spotterâs gps sensor which comprises a large portion of the deviceâs overall energy budget collected location data without interruption power save mode corrects this inefficiency by turning off spotterâs gps sensor during sampling dwell periods this reduces spotterâs power consumption and has a significant impact on battery life depending on the mode spotter is in and the length of its sampling dwell period power save mode can increase battery life by as much as 69 a table showing the sampling rate update rate and dwell period in each spotter mode the battery life increase percentage indicates how much power spotter saves when power save mode is enabled these power savings enable yearround spotter deployments in highlatitude areas and extend continuous operation limits in winter by up to ten degrees of latitude a spotter in the arctic ocean at high latitudes spotter has less exposure to sunlight decreasing the amount of power that its solar panels generate power save mode enables yearround spotter deployments in highlatitude areas and extends continuous operation limits in winter by up to ten degrees of latitude photo credit ryo kusakawa university of tokyo how to enable spotterâs power save mode to enable power save mode customers must update their spotterâs firmware and configure a sampling dwell period to do so please contact us at supportsofaroceancom  we will also share additional strategies to use in conjunction with power save mode â to learn more about spotter please schedule a demo with our team by filling out this short form  sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories product december 23 2022 send more ocean data for less using high data rate hdr mode ocean science february 21 2023 updated algorithm improves accuracy of spotterâs wind velocity measurements product july 19 2022 whats new in spotter 3 about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+How Power Save Mode increases Spotterâs battery life and deployment duration at high latitudes
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Product
+Product
+Spotter System
+How Power Save Mode increases Spotterâs battery life and deployment duration at high latitudes
+Spotterâs Power Save Mode turns off its GPS sensor during sampling dwell periods, increasing battery life by at least 25% and extending its deployment duration at high latitudes.
+Sofar Ocean
+May 12, 2023
+ï
+Back
+Product
+Product
+Spotter System
+How Power Save Mode increases Spotterâs battery life and deployment duration at high latitudes
+Sofar Ocean
+Sofarâs durable
+Spotter
+buoy platform is designed to withstand harsh ocean conditions. From
+aquaculture operations in Norway
+to
+sea-ice interaction research in the Arctic
+, customers around the world trust Spotter to collect and transmit ocean data in the most extreme environments.Â
+A key component of Spotterâs durability is its longevity. Many customers use their Spotters, which are powered by lithium-ion batteries and solar panels, for multi-year deployments. Longer deployment windows enable more data collection and minimize the operational costs of retrieving or manually recharging a Spotter.
+Our team is always looking for innovative ways to increase Spotterâs battery life and keep it in the water for as long as possible.
+Power Save Mode
+is a new feature that enables customers to increase their Spotterâs battery life today.
+Power Save Mode turns off Spotterâs GPS sensor during sampling dwell periods, increasing its battery life by at least 25% and significantly extending the duration of its deployment at high latitudes
+.
+Below, we discuss Power Save Mode in-depth, highlighting the customers that will benefit from it the most and detailing how to equip your Spotter with the feature.
+Extended battery life is crucial for Spotters deployed in sun-starved locations
+15% of customers deploy their Spotters in sun-starved environments, where extended battery life is particularly valuable.
+Extended battery life is valuable for all Spotter users, but it is particularly critical for customers collecting ocean data in sun-starved locations. In these environments, which include countries in the high latitudes, low-light areas, and foggy regions, Spotterâs solar panels naturally generate less power, reducing the lifespan of the deviceâs lithium-ion battery. A Spotter configured with standard
+data collection settings
+â Waves:Standard mode with a 60-minute update rate â will typically last through winter at 55 degrees of latitude without being manually recharged. Any Spotter that loses power will turn back on once exposed to ample sunlight.
+15% of Spotter customers deploy in sun-starved environments, a percentage that we expect to increase as the maritime industry and research community continue to push ocean data collection to the extremes. The truncated cycle of installation and retrieval that these customers experience due to power limitations raises the stakes of each deployment, greatly increasing the value of time saved between recharges.
+Using Power Save Mode during sampling dwell periods
+Power Save Mode extends Spotterâs battery life by capitalizing on sampling dwell periods. When a Spotterâs sampling rate (how frequently it collects data) is shorter than its update rate (how frequently it transmits that data), a dwell period exists between sampling events. For example, if a customer configures their Spotter to collect data in Waves:Standard mode with a 30-minute sampling rate and a 60-minute update rate, there will be a 30-minute sampling dwell period. During this dwell period, Spotter does not collect wave data and does not perform spectral analysis. This minimizes the importance of Spotterâs GPS sensor, which collects location data that is central to the deviceâs wave and wind measurements.
+A schematic of the sampling and update intervals for a Spotter in Waves:Standard mode. This Spotter has a 30-minute sampling rate and a 60-minute update rate; during the resulting 30-minute sampling dwell period, Power Save Mode can be used to extend Spotterâs battery life.
+â
+Historically, Spotterâs GPS sensor, which comprises a large portion of the deviceâs overall energy budget, collected location data without interruption. Power Save Mode corrects this inefficiency by turning off Spotterâs GPS sensor during sampling dwell periods. This reduces Spotterâs power consumption and has a significant impact on battery life:
+Depending on the mode Spotter is in and the length of its sampling dwell period, Power Save Mode can increase battery life by as much as 69%.
+A table showing the sampling rate, update rate, and dwell period in each Spotter mode. The battery life increase percentage indicates how much power Spotter saves when Power Save Mode is enabled.
+These power savings enable year-round Spotter deployments in high-latitude areas and extend continuous operation limits in winter by up to ten degrees of latitude.
+A Spotter in the Arctic Ocean. At high latitudes, Spotter has less exposure to sunlight, decreasing the amount of power that its solar panels generate. Power Save Mode enables year-round Spotter deployments in high-latitude areas and extends continuous operation limits in winter by up to ten degrees of latitude.
+Photo credit: Ryo Kusakawa, University of Tokyo
+How to enable Spotterâs Power Save Mode
+To enable Power Save Mode, customers must update their Spotterâs firmware and configure a sampling dwell period. To do so, please contact us at
+support@sofarocean.com
+. We will also share additional strategies to use in conjunction with Power Save Mode.
+â
+To learn more about Spotter, please schedule a demo with our team by filling out this short
+form
+.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Product
+December 23, 2022
+Send more ocean data for less using High Data Rate (HDR) mode
+Ocean Science
+February 21, 2023
+Updated algorithm improves accuracy of Spotterâs wind velocity measurements
+Product
+July 19, 2022
+What's new in Spotter 3?
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

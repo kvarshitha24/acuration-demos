@@ -1,1 +1,67 @@
-data validation spotter takes a stand sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch product product spotter system data validation spotter takes a stand to provide a direct validation of the spotter motion sensing capabilities we purposebuilt a motioncontrolled teststand that enables detailed simulation of realistic ocean surface motions tim janssen may 19 2017 ï back product product spotter system data validation spotter takes a stand tim janssen to deterministically validate spotter motion sensing capabilities we use a purposebuilt motion teststand which provides extremely accurate positioning control the control software can simulate any type of motions limited only by the physical dimensions 6 by 6 and mechanical limitations motor power belt strength etc of the stand this motioncontrolled validation stand provides a great platform for detailed testing of sensor capabilities note that although the results shown here are representative of our validation efforts for any measurement device that relies in full or in part on gps such as spotter data results may vary depending on eg satellite constellation multipath effects view obstructions and possibly atmospheric conditions figure 1 shows time series of displacement for a periodic wave with 12s period and 12m wave height a periodic  or sinusoidal  wave is the most basic wave form we have although such a wave never actually occurs in the ocean you could think of it as an archetype for a very narrowband swell field traveling in from a remote storm due to its simplicity the periodic wave is widely used as validation of wave sensors and it is certainly a good starting point the agreement between the teststand and spotter measurements for the periodic wave motion is excellent see figure 1 both for the horizontal displacements top panel and vertical displacements bottom panel the correlation between the stand motion and spotter data is 099 and 098 for the horizontal and vertical displacement time series respectively â however ocean waves are never purely periodic and a more realistic simulation is that in which the wave energy has a wider distribution in frequency space a well known and commonly occurring spectral shape in natural ocean wave fields is the socalled jonswap spectrum see hasselmann et al 1973 a simulation with a realization that is randomly drawn from a jonswap frequency distribution is shown in figure 2 the random nature of the horizontal and vertical displacements are clearly visible and the agreement between the motion stand and spotter data is very good wave height estimates are within 4 of what was prescribed since for random waves the similarity between two time series is less easily visually established see figure 2 we can use a normalized crosscorrelation function to help with that in figure 3 the correlation functions between the teststand motion and spotter data is shown for both the horizontal and vertical displacements the correlation at zero time lag is a measure of similarity of the two time series in this case the correlations are 096 and 09 for the horizontal and vertical motions respectively â â references hasselmann k tp barnett e bouws h carlson de cartwright k enke ja ewing h gienapp de hasselmann p kruseman a meerburg p mller dj olbers k richter w sell and h walden 1973 measurements of windwave growth and swell decay during the joint north sea wave project jonswap ergnzungsheft zur deutschen hydrographischen zeitschrift reihe a8 nr 12 â sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories product march 24 2017 data validation statistics at mavericks about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Data validation: Spotter takes a stand
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Product
+Product
+Spotter System
+Data validation: Spotter takes a stand
+To provide a direct validation of the Spotter motion sensing capabilities, we purpose-built a motion-controlled teststand that enables detailed simulation of realistic ocean surface motions.
+Tim Janssen
+May 19, 2017
+ï
+Back
+Product
+Product
+Spotter System
+Data validation: Spotter takes a stand
+Tim Janssen
+To deterministically validate Spotter motion sensing capabilities we use a purpose-built motion teststand, which provides extremely accurate positioning control. The control software can simulate any type of motions, limited only by the physical dimensions (6' by 6') and mechanical limitations (motor power, belt strength etc) of the stand. This motion-controlled validation stand provides a great platform for detailed testing of sensor capabilities. Note that although the results shown here are representative of our validation efforts, for any measurement device that relies in full or in part on GPS (such as Spotter), data results may vary depending on e.g. satellite constellation, multipath effects, view obstructions, and possibly atmospheric conditions.
+Figure 1 shows time series of displacement for a periodic wave with 12s period and 1.2m wave height. A periodic - or sinusoidal - wave, is the most basic wave form we have. Although such a wave never actually occurs in the ocean, you could think of it as an archetype for a very narrow-band swell field traveling in from a remote storm. Due to its simplicity, the periodic wave is widely used as validation of wave sensors and it is certainly a good starting point. The agreement between the teststand and Spotter measurements for the periodic wave motion is excellent (see figure 1), both for the horizontal displacements (top panel) and vertical displacements (bottom panel). The correlation between the stand motion and Spotter data is 0.99 and 0.98 for the horizontal and vertical displacement time series respectively.
+â
+However, ocean waves are never purely periodic, and a more realistic simulation is that in which the wave energy has a wider distribution in frequency space. A well known and commonly occurring spectral shape in natural ocean wave fields is the so-called JONSWAP spectrum (see Hasselmann et al. 1973). A simulation with a realization that is randomly drawn from a JONSWAP frequency distribution is shown in figure 2. The random nature of the horizontal and vertical displacements are clearly visible, and the agreement between the motion stand and Spotter data is very good. Wave height estimates are within 4% of what was prescribed.
+Since for random waves, the 'similarity' between two time series is less easily visually established (see figure 2), we can use a normalized cross-correlation function to help with that. In figure 3, the correlation functions between the teststand motion and Spotter data is shown for both the horizontal and vertical displacements. The correlation at zero time lag is a measure of 'similarity' of the two time series. In this case, the correlations are 0.96 and 0.9 for the horizontal and vertical motions respectively.
+â
+â
+References
+Hasselmann K., T.P. Barnett, E. Bouws, H. Carlson, D.E. Cartwright, K. Enke, J.A. Ewing, H. Gienapp, D.E. Hasselmann, P. Kruseman, A. Meerburg, P. Mller, D.J. Olbers, K. Richter, W. Sell, and H. Walden, 1973; "Measurements of wind-wave growth and swell decay during the Joint North Sea Wave Project (JONSWAP)" Ergnzungsheft zur Deutschen Hydrographischen Zeitschrift Reihe,
+A(8)
+(Nr. 12).
+â
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Product
+March 24, 2017
+Data validation: statistics at Mavericks
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

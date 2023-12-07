@@ -1,1 +1,96 @@
-how spotter buoys support the brazilian navys antarctic weather mission sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch customer stories customer stories no items found how spotter buoys support the brazilian navys antarctic weather mission the brazilian navy chose sofar spotters to support their weather research and monitoring mission in the southern ocean sofar ocean february 8 2021 ï back customer stories customer stories no items found how spotter buoys support the brazilian navys antarctic weather mission sofar ocean this blog was written by captain tobias ramalho patricia puhl vanessa bach and felippe galdino of the brazilian navy weâre excited to share a report directly from captain tobias ramalho of the brazilian navy capt ramalho and the brazilian navy chose sofar ocean as its connectedsensor partner to meet the operational and monitoring needs in the south atlantic ocean southern ocean and antarctic regionâ with its proven reliability accuracy and wellestablished scientific credentials the spotter buoy from sofar ocean provides the brazilian navy with the ability to operate at highlatitude regions that receive very little sunlight while providing 2way communication via its builtin satellite modemâ to learn more about the project and read updates visit their project page in portuguese authors capt tobias ramalho patricia puhl vanessa bach and felippe galdino brazilian navy in december 2020 the brazilian navy polar ship âalmirante maximianoâ of the directorate of hydrography and navigation dhn deployed a spotter buoy  moored in the vicinity of the comandante ferraz antarctic station eacf at geographic coordinates 62â 12 34258 s and 58â 16 48180 w and depth of 46 meters this buoy is part of the remo observacional project of the brazilian navy hydrography center chm with petrobras this project aims to manage a network of weather buoys in support of the south atlantic forecasting systems as well as to support petrobras offshore activities fig 1 deployment of the spotter wave buoy from brazilian navy ship âalmirante maximianoâ â fig 2 spotter buoy deployment location near the comandante ferraz antarctic station eacf  â this is a broad project which also contemplates the following objectives  development of a weather buoy with brazilian technology  validation of a national wave measurement system  construction of a system for monitoring vandalism in buoys using cameras  development of a lowcost brazilian wave sensor network the data collection in extreme event regions  design of a glider monitoring network for the brazilian coast fig 3 spotter buoy deployed in antarctica as it is a research and development project with a bias in studies of new technologies in the south atlantic it was seen that the use of spotter v2 would be a great opportunity for the brazilian navy and petrobras to expand their research areas to antarctica the deployment site for the buoy was chosen for sampling of the wave and wind systems acting at the entrance of the admiralty bay on king george island and on the bransfield channel as the data is available in real time to the polar ships and to the eacf this buoy is providing essential information to support the brazilian navy operations in the region considering that the wave and wind numerical models do not have a reasonable resolution chm is responsible for generating weather forecasts for the antarctic region in support of naval operations for brazilian navy ships and eacf in this context chm uses the icon wind model for this location the output data from icon was used as a forcing parameter for wave watch iii wwiii wave model initial comparisons between wwiii showed that although the model presents a trend very close to buoy data in the region it is possible to observe at times that it overestimates and underestimates wave heights in the case of wind data most of the time icon model has higher intensities than data collected by spotter buoy these results show the importance of having a data collection platform in the antarctic as the results of numerical models do not always reflect realityâ fig 4 comparison between the forecast model wave height in blue and measurements from the spotter wave buoy in red the large differences between the observations and model forecasts highlight the need for data to improve the forecast models another factor that corroborates with the importance of having a data collection platform in antarctica was what happened shortly after the deployment of spotter the navy polar ship weather station measured winds of 40 knots with gusts of 69 knots such conditions are considered extreme even for antarctica as a consequence the spotter v2 moved from the original mooring position for a future deployment the mooring system must be redesigned in order to adapt to extreme conditions that may occur in antarctica ensuring historical wave and wind data of great importance for the activities of brazilian navy in the region this was one of the first instances of a buoy being deployed in the antarctic region and with the data made free and accessible to the scientific community the data is transmitted to brazilian marine meteorological service in real time and the scientific community can access qualitycontrolled output at wwwmarinhamilbrchmdadosdogoosbrasilpnboiamapa  project update 040722 in the new educational video below shared with sofar by our partners at inpe  watch as a spotter is deployed in the southern ocean near the antarctic peninsula for more educational content check out other videos from the series here and here  â sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories customer stories march 25 2019 spotter array explores the southern ocean customer stories february 24 2021 how the university of tokyo measures arctic seaice interactions with spotters about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+How Spotter Buoys Support the Brazilian Navy's Antarctic Weather Mission
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Customer Stories
+Customer Stories
+No items found.
+How Spotter Buoys Support the Brazilian Navy's Antarctic Weather Mission
+The Brazilian Navy chose Sofar Spotters to support their weather research and monitoring mission in the Southern Ocean.
+Sofar Ocean
+February 8, 2021
+ï
+Back
+Customer Stories
+Customer Stories
+No items found.
+How Spotter Buoys Support the Brazilian Navy's Antarctic Weather Mission
+Sofar Ocean
+This blog was written by Captain Tobias Ramalho, Patricia Puhl, Vanessa Bach, and Felippe Galdino of the Brazilian Navy.
+Weâre excited to share a report directly from Captain Tobias Ramalho of the Brazilian Navy. Capt. Ramalho and the Brazilian Navy chose Sofar Ocean as its connected-sensor partner to meet the operational and monitoring needs in the South Atlantic Ocean, Southern Ocean, and Antarctic region.Â
+With its proven reliability, accuracy and well-established scientific credentials the
+Spotter buoy
+from Sofar Ocean provides the Brazilian Navy with the ability to operate at high-latitude regions that receive very little sunlight, while providing 2-way communication via its built-in satellite modem.Â
+To learn more about the project and read updates visit their
+project page
+(in Portuguese).
+Authors: Capt. Tobias Ramalho, Patricia Puhl, Vanessa Bach, and Felippe Galdino, Brazilian Navy.
+In December 2020, the Brazilian Navy Polar Ship âAlmirante Maximianoâ, of the Directorate of Hydrography and Navigation (DHN), deployed a
+Spotter buoy
+, moored in the vicinity of the Comandante Ferraz Antarctic Station (EACF), at geographic coordinates 62Â° 12' 34.258" S and 58Â° 16' 48.180" W and depth of 46 meters. This buoy is part of the REMO Observacional project, of the Brazilian Navy Hydrography Center (CHM) with PETROBRAS. This project aims to manage a network of weather buoys in support of the South Atlantic forecasting systems, as well as to support PETROBRAS offshore activities.
+Fig 1. Deployment of the Spotter wave buoy from Brazilian Navy ship âAlmirante Maximianoâ.
+â
+Fig 2. Spotter buoy deployment location near the Comandante Ferraz Antarctic Station (EACF) .
+â
+This is a broad project, which also contemplates the following objectives:
+- development of a weather buoy with Brazilian technology
+- validation of a national wave measurement system
+- construction of a system for monitoring vandalism in buoys using cameras
+- development of a low-cost Brazilian wave sensor network, the data collection in extreme event regions
+- design of a glider monitoring network for the Brazilian coast
+Fig 3. Spotter buoy deployed in Antarctica.
+As it is a research and development project with a bias in studies of new technologies in the South Atlantic, it was seen that the use of Spotter V-2 would be a great opportunity for the Brazilian Navy and PETROBRAS to expand their research areas to Antarctica. The deployment site for the buoy was chosen for sampling of the wave and wind systems acting at the entrance of the Admiralty Bay, on King George Island, and on the Bransfield channel. As the data is available in real time to the Polar Ships and to the EACF, this buoy is providing essential information to support the Brazilian Navy operations in the region, considering that the wave and wind numerical models do not have a reasonable resolution.
+CHM is responsible for generating weather forecasts for the Antarctic region, in support of Naval Operations for Brazilian Navy Ships and EACF. In this context, CHM uses the ICON wind model for this location. The output data from ICON was used as a forcing parameter for Wave Watch III (WWIII) wave model. Initial comparisons between WWIII showed that, although the model presents a trend very close to buoy data in the region, it is possible to observe at times that it overestimates and underestimates wave heights. In the case of wind data, most of the time ICON model has higher intensities than data collected by Spotter buoy. These results show the importance of having a data collection platform in the Antarctic, as the results of numerical models do not always reflect reality.Â
+Fig 4. Comparison between the forecast model wave height (in blue) and measurements from the Spotter wave buoy (in red). The large differences between the observations and model forecasts highlight the need for data to improve the forecast models.
+Another factor that corroborates with the importance of having a data collection platform in Antarctica was what happened shortly after the deployment of Spotter. The Navy Polar Ship weather station measured winds of 40 knots, with gusts of 69 knots. Such conditions are considered extreme, even for Antarctica. As a consequence, the Spotter V-2 moved from the original mooring position. For a future deployment, the mooring system must be redesigned in order to adapt to extreme conditions that may occur in Antarctica, ensuring historical wave and wind data of great importance for the activities of Brazilian Navy in the region.
+This was one of the first instances of a buoy being deployed in the Antarctic region and with the data made free and accessible to the scientific community. The data is transmitted to Brazilian Marine Meteorological Service in real time, and the scientific community can access quality-controlled output at
+www.marinha.mil.br/chm/dados-do-goos-brasil/pnboia-mapa
+.
+Project Update (04/07/22): In the new educational video below shared with Sofar by our partners at
+INPE
+, watch as a Spotter is deployed in the Southern Ocean near the Antarctic Peninsula. For more educational content, check out other videos from the series
+here
+and
+here
+.
+â
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Customer Stories
+March 25, 2019
+Spotter array explores the Southern Ocean
+Customer Stories
+February 24, 2021
+How the University of Tokyo Measures Arctic Sea-Ice Interactions with Spotters
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

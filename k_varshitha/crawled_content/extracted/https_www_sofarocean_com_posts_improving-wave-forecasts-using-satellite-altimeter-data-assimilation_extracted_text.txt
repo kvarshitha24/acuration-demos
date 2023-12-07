@@ -1,1 +1,99 @@
-improving wave forecasts using satellite altimeter data assimilation sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch ocean science ocean science analysis improving wave forecasts using satellite altimeter data assimilation we achieved a first in the weather forecasting field operationalizing a global forecast model that assimilates both spectral wave data from buoys and wave height observations from satellites sofar ocean september 6 2022 ï back ocean science ocean science analysis improving wave forecasts using satellite altimeter data assimilation sofar ocean at sofar we assimilate the realtime ocean data collected by our vast network of spotter buoys into our accurate operational ocean weather forecasts these unique observations and innovative forecasts have empowered us to explore new frontiers in the voyage optimization space via our wayfinder platform  to stay on the leading edge of both wave forecasting and voyage optimization our ocean science and data teams are always innovating and experimenting with new datadriven methodologies to improve our model in august 2022 we achieved a first in the weather forecasting field operationalizing a global forecast model that assimilates both spectral wave data from buoys and wave height observations from satellites  the power of realtime buoy observations to fully grasp the impact of assimilating satellite wave height data it is first critical to understand sofarâs forecast advantage realtime ocean observations our network of spotter buoys distributed across all five oceans collects wave data in realtime unique observations that we assimilate into our marine weather forecast this realtime data corrects the ânowâ state of the forecasts which in turn improves our wave predictions in the future by incorporating this spectral wave buoy data we generate global wave forecasts that are 40 more accurate than leading government forecast centers while we continue to expand our global sensor network we are always striving to improve our forecasts by integrating additional sources of wave height data such as observations from satellite altimeters observing the ocean with satellites each day governmentoperated satellites circle earth multiple times and take snapshots of our global oceansâ sea state some of these satellites are equipped with altimeters onboard sensors that measure altitude ie height above sea level altimeters send a pulse of light energy down to earth that gets reflected off of its surface and sent back to space the altimeter measures the time it takes for the satellite to emit this light energy and detect the return signal and uses this information to better understand earthâs surface in an oceanographic context altimeter measurements are translated into observations of wave height sea surface height and ocean currents these observations provide critical insights and are incredibly important for the long term monitoring of sea level rise due to climate change to learn more about how our wave buoy observations relate to wave observations from satellite altimeters check out our peerreviewed publication here  at sofar we saw an opportunity to assimilate the wave height measurements made by three different satellite altimeters â jason3 saral satellite with argos and altika and sentinel6a â and use them in concert with the observations made by our continually expanding buoy network in the animation in figure 1 below watch as the satellite altimeter track blue lines sweeps across earth and crosses over our network of spotter buoys black dots as satellites orbit the earth they collect a swath of information which is essentially a long strip of data see blue lines in figure 1 even though one hour of satellite data collection translates to less spatial coverage than that provided by our global buoy network the satellites enable us to obtain observational data in areas of the ocean that are sparsely populated by spotters due to either a lack of buoy deployments or because it is hard to retain free drifting buoys in that area near the equator you can see that there are very few buoys the result of divergent currents that flow away to the north and south and push the devices out of the region in areas like these the assimilation of wave height observations from satellites is particularly beneficial therefore these distinct data sources work best when used together with buoy observations providing widespread granular coverage and satellite altimeter data filling in regional gaps in figure 1 the complementary nature of buoy and satellite data is on display the background colors show where the assimilation of altimeter observations corrects our forecast model to larger blue and smaller red significant wave heights the addition of satellite data has a global impact figure 1 this animation highlights the satellite altimeter track blue lines as it orbits the earth and the spotters black dots as they drift with the ocean currents the background colors show where the assimilation of altimeter observations corrects our forecast model to larger blue and smaller red significant wave heights depending on the region waves are predicted to be larger or smaller but in general the addition of satellite data has a global effect on significant wave height forecasts forecast comparisons traditional forecasting centers like the european centre for mediumrange weather forecasts ecmwf rely on satellite altimetry data for their wave forecasts now that we are also incorporating satellite data into our forecasts our team can make more direct comparisons between our forecasts and those produced by other forecasting centers this is particularly useful for highlighting the added value that our spotter buoy observations have on our forecastâs accuracy as they are an input that is exclusive to our model â in figure 2 below we measure the forecast error of the ecmwf forecast gray lines our forecast with assimilated spotter data green lines and our forecast with assimilated spotter data and assimilated altimeter data blue lines when compared to altimeter observations left graph and spotter observations right graph validating our forecasts against both the altimeter and spotter observations shows that during the 18day comparison period assimilating both spotter and altimetry data produced the most accurate forecast figure 2 during an 18day experiment we validated our forecasts against altimeter data left and spotter data right we compared ecmwf forecast accuracy to our forecasts with assimilated spotter data and to our forecasts with both assimilated spotter data and satellite altimetry data in general as the forecast lead time increases the error will increase because there is less certainty in trying to predict farther out into the future in both the comparison to altimeter observations and spotter observations our one day forecast that assimilated both spotter and altimeter data outperformed ecmwfâs forecast and our forecast that only assimilated spotter data early results suggest that our combined satellite and spotter data assimilation approach results in forecast improvements over traditional operational centers both when validating against altimeter data and spotter data when we validate our forecasts against spotter wave buoy observations the improvement in forecast accuracy over traditional centers extends to 15 days out and is up to 5 more accurate see figure 2 rightmost graph these are preliminary results which our team is excited to share and build on as we continue to conduct more research and testing team wins no improvement to the sofar operational wave forecasting system would be possible without the dayin dayout work of our talented team special thanks to all of the team members that powered this effort particularly our ocean science team the satellite altimeter data assimilation project was completed in just over two months a perfect embodiment of one of our core values âshipping for impactâ keep tabs on our blog to hear about future forecast updates sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories ocean science may 14 2022 data assimilation part i bringing ocean observations into wave forecasts ocean science may 14 2022 data assimilation part ii improving the wave forecast of a north atlantic storm product august 29 2022 how wayfinder helps vessels avoid storms about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Improving wave forecasts using satellite altimeter data assimilation
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Ocean Science
+Ocean Science
+Analysis
+Improving wave forecasts using satellite altimeter data assimilation
+We achieved a first in the weather forecasting field: operationalizing a global forecast model that assimilates both spectral wave data from buoys and wave height observations from satellites.
+Sofar Ocean
+September 6, 2022
+ï
+Back
+Ocean Science
+Ocean Science
+Analysis
+Improving wave forecasts using satellite altimeter data assimilation
+Sofar Ocean
+At Sofar, we assimilate the real-time ocean data collected by our vast network of
+Spotter
+buoys into our accurate operational ocean weather forecasts. These unique observations and innovative forecasts have empowered us to explore new frontiers in the voyage optimization space via our
+Wayfinder platform
+.
+To stay on the leading edge of both wave forecasting and voyage optimization, our Ocean Science and Data teams are always innovating and experimenting with new data-driven methodologies to improve our model.
+In August 2022, we achieved a first in the weather forecasting field: operationalizing a global forecast model that
+assimilates both spectral wave data from buoys and wave height observations from satellites
+.
+The Power of Real-time Buoy Observations
+To fully grasp the impact of assimilating satellite wave height data, it is first critical to understand Sofarâs forecast advantage: real-time ocean observations. Our network of Spotter buoys distributed across all five oceans collects wave data in real-time, unique observations that we
+assimilate
+into our marine weather forecast. This real-time data corrects the ânowâ state of the forecasts, which in turn improves our wave predictions in the future. By incorporating this spectral wave buoy data, we generate global wave forecasts that are 40% more accurate than leading government forecast centers.
+While we continue to expand our global sensor network, we are always striving to improve our forecasts by integrating additional sources of wave height data, such as observations from satellite altimeters.
+Observing the Ocean with Satellites
+Each day, government-operated satellites circle Earth multiple times and take snapshots of our global oceansâ sea state. Some of these satellites are equipped with altimeters, onboard sensors that measure altitude (i.e. height above sea level). Altimeters send a pulse of light energy down to Earth that gets reflected off of its surface and sent back to space. The altimeter measures the time it takes for the satellite to emit this light energy and detect the return signal, and uses this information to better understand Earthâs surface. In an oceanographic context, altimeter measurements are translated into observations of wave height, sea surface height, and ocean currents. These observations provide critical insights and are incredibly important for the long term monitoring of sea level rise due to climate change. To learn more about how our wave buoy observations relate to wave observations from satellite altimeters, check out our peer-reviewed publication
+here
+.
+At Sofar, we saw an opportunity to assimilate the wave height measurements made by three different satellite altimeters â Jason-3, SARAL (Satellite with ARgos and ALtiKa), and Sentinel-6A â and use them in concert with the observations made by our continually expanding buoy network.
+In the animation in Figure 1 below, watch as the satellite altimeter track (blue lines) sweeps across Earth and crosses over our network of Spotter buoys (black dots). As satellites orbit the Earth, they collect a swath of information, which is essentially a long strip of data (see blue lines in Figure 1). Even though one hour of satellite data collection translates to less spatial coverage than that provided by our global buoy network, the satellites enable us to obtain observational data in areas of the ocean that are sparsely populated by Spotters, due to either a lack of buoy deployments or because it is hard to retain free drifting buoys in that area. Near the equator you can see that there are very few buoys, the result of divergent currents that flow away to the North and South and push the devices out of the region. In areas like these, the assimilation of wave height observations from satellites is particularly beneficial. Therefore, these distinct data sources work best when used together, with buoy observations providing widespread, granular coverage, and satellite altimeter data filling in regional gaps.
+In Figure 1, the complementary nature of buoy and satellite data is on display. The background colors show where the assimilation of altimeter observations corrects our forecast model to larger (blue) and smaller (red) significant wave heights. The addition of satellite data has a global impact.
+Figure 1:
+This animation highlights the satellite altimeter track (blue lines) as it orbits the Earth and the Spotters (black dots) as they drift with the ocean currents. The background colors show where the assimilation of altimeter observations corrects our forecast model to larger (blue) and smaller (red) significant wave heights. Depending on the region, waves are predicted to be larger or smaller, but, in general, the addition of satellite data has a global effect on significant wave height forecasts.
+Forecast Comparisons
+Traditional forecasting centers, like The European Centre for Medium-Range Weather Forecasts (ECMWF), rely on satellite altimetry data for their wave forecasts. Now that we are also incorporating satellite data into our forecasts, our team can make more direct comparisons between our forecasts and those produced by other forecasting centers. This is particularly useful for highlighting the added value that our Spotter buoy observations have on our forecastâs accuracy, as they are an input that is exclusive to our model.
+â
+In Figure 2 below, we measure the forecast error of the ECMWF forecast (gray lines), our forecast with assimilated Spotter data (green lines), and our forecast with assimilated Spotter data
+and
+assimilated altimeter data (blue lines), when compared to altimeter observations (left graph) and Spotter observations (right graph).
+Validating our forecasts against both the altimeter and Spotter observations shows that during the 18-day comparison period
+assimilating both Spotter and altimetry data produced the most accurate forecast.
+Figure 2:
+During an 18-day experiment, we validated our forecasts against altimeter data (left) and Spotter data (right). We compared ECMWF forecast accuracy to our forecasts with assimilated Spotter data, and to our forecasts with
+both
+assimilated Spotter data and satellite altimetry data. In general, as the forecast lead time increases, the error will increase because there is less certainty in trying to predict farther out into the future. In both the comparison to altimeter observations and Spotter observations, our one day forecast that assimilated both Spotter and altimeter data outperformed ECMWFâs forecast and our forecast that only assimilated Spotter data.
+Early results suggest that our combined satellite and Spotter data assimilation approach results in forecast improvements over traditional operational centers both when validating against altimeter data and Spotter data. When we validate our forecasts against Spotter wave buoy observations, the improvement in forecast accuracy over traditional centers extends to 1.5 days out, and is up to 5% more accurate (see Figure 2, rightmost graph). These are preliminary results, which our team is excited to share and build on as we continue to conduct more research and testing.
+Team Wins
+No improvement to the Sofar operational wave forecasting system would be possible without the day-in, day-out work of our talented team. Special thanks to all of the team members that powered this effort, particularly our Ocean Science team. The satellite altimeter data assimilation project was completed in just over two months, a perfect embodiment of one of our core values, âshipping for impact.â Keep tabs on our blog to hear about future forecast updates!
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Ocean Science
+May 14, 2022
+Data assimilation part I: bringing ocean observations into wave forecasts
+Ocean Science
+May 14, 2022
+Data assimilation part II: improving the wave forecast of a North Atlantic storm
+Product
+August 29, 2022
+How Wayfinder helps vessels avoid storms
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

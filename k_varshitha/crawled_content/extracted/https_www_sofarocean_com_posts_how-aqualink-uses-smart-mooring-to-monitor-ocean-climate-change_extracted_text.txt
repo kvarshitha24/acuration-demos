@@ -1,1 +1,120 @@
-how aqualink uses smart mooring to monitor ocean climate change sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch customer stories customer stories no items found how aqualink uses smart mooring to monitor ocean climate change aqualink is using buoy data to learn how rising ocean water temperatures are contributing to the decline of coral reefs emily heaslip march 8 2021 ï back customer stories customer stories no items found how aqualink uses smart mooring to monitor ocean climate change emily heaslip how aqualink uses smart mooring to monitor ocean climate change itâs estimated that at the current rate of climate change by 2100 there will be nearly zero suitable coral habitats remaining on earth ocean acidification and climate change are decimating these fragile yet critical ecosystems â and scientists are working hard to find ways to stop this declineâ read more how does climate change affect the ocean  aqualink is a philanthropicallyfunded organization working on building ocean conservation technology to track and mitigate the impact of rising ocean temperatures the aqualink team is taking a bold new approach to coral conservation they are deploying smart moorings worldwide to help citizen scientists monitor sensitive coral reefs and underwater ecosystems by providing citizen scientists researchers and volunteers with the tools to better understand and monitor their local reefs aqualink hopes to better track and predict heat stress events such as coral bleaching hereâs how aqualink is using sofar oceanâs smart mooring tech to innovatively monitor ocean climate change and help protect coral reefs ocean climate change and coral reefsâ â coral reefs are a vital ecosystem not just for marine species but for humans and coastal communities too in addition to serving as breeding grounds for fish nearly 500 million people depend on coral reefs for their livelihood and for protection from storms and coastal erosion a big part of the global economy depends on the survival of coral reefs too in the florida keys coral reefs support an estimated 70400 jobs  mostly in tourism and fishing â generating 85 billion in revenue for the economy according to chemical  engineering news  ocean acidification and climate change are decimating coral reefs â and scientists estimate that over the next 20 years 70  90 of reefs will disappear climate change is causing an increase in ocean acidity water temperatures and pollution warming causes corals to lose their algae and bleach ocean acidification makes it difficult for individual corals to build the calcium deposits that lead to larger reef structures âif the ph is low enough and the corals unhealthy enough reefs can even start to dissolve making them vulnerable to shattering during stormsâ reported cen â and lastly as the ocean warms stratification increases ocean stratification is caused by differences in the density of water warmer less salty water layers on top of colder saltier and denser water as the ocean gets warmer stratification changes âwarmer water can absorb less oxygen and the oxygen that is absorbed cannot mix as easily with the cooler ocean waters below making it difficult for marine life to thrive warmer ocean water also leads to increased bleaching of coral reefs and more favorable conditions for intense longlasting hurricanes to developâ explained laura snider in ncar  ucar news â stratification acidification and temperature increase paint a grim outlook for coral reefs but groups like aqualink are seeking to mitigate the threat of climate change to these critical ecosystemsâ measuring ocean water temperatures with buoys how are groups like aqualink approaching the problem of climate changeâ satellite data is typically used to understand how climate change is impacting surface temperature however coral reefs and other essential marine ecosystems are not always near the surface ocean dynamics can mean thereâs a large temperature difference between the surface and where reefs live just a few meters down temperature data collected by satellite just isnât that accurate when it comes to tracking reef survival aqualink aims to solve a specific problem that occurs when trying to monitor the oceanâs surface temperature from space aqualink is using a wide network of sofar ocean smart mooring buoys to measure the temperature at the ocean floor âby building as many of these buoys as we can and deploying them around the world we can begin to build a dataset that helps in understanding where and when heat stress in the ocean will occurâ explained aqualink â aqualink offers free buoys to volunteers tour operators researchers and citizen scientists who can help expand the data collection network smart moorings are used to collect temperature data every hour from both the surface and on the reef this data is augmented with publicly available satellite data and models through noaaâs âdaily global 5km satellite coral bleaching heat stress monitoringâ reports sofar ocean imports the data from noaa and aqualink uses our api to render the data in their web applicationâ check out the map on aqualink âs website â you see global map with pins for each proposed monitoring site the map can be overlaid with global data such as heat stress or sea surface temperature from noaaâs coral reef watch  saving the worldâs coral reefs better data is the first step to solving the climate crisis impacting our coral reefs but we will also need to know what impact the temperature changes will have on the overall health of the reef the data needs to be connected to observations aqualink coaches recreational divers and researchers on how to conduct meaningful surveys that are uploaded to the platform by centralizing noaa data buoy data and usercaptured data in one place scientists and coral reef experts all over the world can better understand and ultimately determine how to best protect these delicate ecosystemsâ better temperature tracking can lead to the establishment of marine protected areas  national âparksâ in the ocean where fishing mining and tourismrecreational activities are offlimits over time these marine reserves can help reefs become healthier and more resilientâ there are already some promising developments in the mission to save coral reefs specifically related to breeding heattolerant species of coralsâ erinn muller  the science director at the elizabeth moore international center for coral reef research and restoration in sarasota florida is leading a team that harvests samples of corals that have survived the environmental stresses naturally breeds them by hand and then reattaches the corals to the reef other researchers are focusing on the genetic components of corals that are able to survive heat waves or consistently warmer ocean temperaturesâ ultimately however no amount of scientific innovation will be able to overcome global warming if it continues at the current rate thatâs what makes aqualink so powerful â the group is encouraging ordinary citizens outside the scientific community to play a part in protecting coral reefs thus raising awareness on a broader scaleâ â aqualink is just one group thatâs using sofar ocean technology to combat the impact of ocean climate change more transparency and open sharing of information from aqualink and others is just the first step toward building a concerted effort to protect our oceans read more about sofar oceanâs buoys here  sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories customer stories april 29 2020 coastal risk assessment in a coral reef lagoon customer stories august 4 2021 6 spotter buoys deployed in the black sea about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+How Aqualink Uses Smart Mooring to Monitor Ocean Climate Change
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Customer Stories
+Customer Stories
+No items found.
+How Aqualink Uses Smart Mooring to Monitor Ocean Climate Change
+Aqualink is using buoy data to learn how rising ocean water temperatures are contributing to the decline of coral reefs.
+Emily Heaslip
+March 8, 2021
+ï
+Back
+Customer Stories
+Customer Stories
+No items found.
+How Aqualink Uses Smart Mooring to Monitor Ocean Climate Change
+Emily Heaslip
+How Aqualink Uses Smart Mooring to Monitor Ocean Climate Change
+Itâs estimated that, at the current rate of climate change, by 2100 there will be nearly
+zero suitable coral habitats
+remaining on Earth. Ocean acidification and climate change are decimating these fragile, yet critical, ecosystems â and scientists are working hard to find ways to stop this decline.Â
+[Read more:
+How Does Climate Change Affect the Ocean
+]
+Aqualink
+is a philanthropically-funded organization working on building ocean conservation technology to track and mitigate the impact of rising ocean temperatures. The Aqualink team is taking a bold new approach to coral conservation: they are deploying Smart Moorings worldwide to help citizen scientists monitor sensitive coral reefs and underwater ecosystems.
+By providing citizen scientists, researchers, and volunteers with the tools to better understand and monitor their local reefs, Aqualink hopes to better track and predict heat stress events, such as coral bleaching. Hereâs how Aqualink is using Sofar Oceanâs
+Smart Mooring
+tech to innovatively monitor ocean climate change and help protect coral reefs.
+Ocean climate change and coral reefsÂ Â
+Coral reefs are a vital ecosystem not just for marine species, but for humans and coastal communities too. In addition to serving as breeding grounds for fish, nearly
+500 million people
+depend on coral reefs for their livelihood and for protection from storms and coastal erosion. A big part of the global economy depends on the survival of coral reefs, too. In the Florida Keys, coral reefs support an
+estimated 70,400 jobs
+, mostly in tourism and fishing â generating $8.5 billion in revenue for the economy, according to
+Chemical & Engineering News
+.
+Ocean acidification and climate change are decimating coral reefs â and scientists estimate that over the next 20 years,
+70% - 90% of reefs
+will disappear. Climate change is causing an increase in ocean acidity, water temperatures, and pollution. Warming causes corals to lose their algae and bleach; ocean acidification makes it difficult for individual corals to build the calcium deposits that lead to larger reef structures. âIf the pH is low enough and the corals unhealthy enough, reefs can even start to dissolve, making them vulnerable to shattering during storms,â reported
+C&EN
+.Â
+And, lastly, as the ocean warms, stratification increases. Ocean stratification is caused by differences in the density of water: warmer, less salty water layers on top of colder, saltier (and denser) water. As the ocean gets warmer, stratification changes. âWarmer water can absorb less oxygen, and the oxygen that is absorbed cannot mix as easily with the cooler ocean waters below, making it difficult for marine life to thrive. Warmer ocean water also leads to increased bleaching of coral reefs and more favorable conditions for intense long-lasting hurricanes to develop,â explained Laura Snider in
+NCAR & UCAR News
+.Â
+Stratification, acidification, and temperature increase paint a grim outlook for coral reefs. But, groups like Aqualink are seeking to mitigate the threat of climate change to these critical ecosystems.Â
+Measuring ocean water temperatures with buoys
+How are groups like Aqualink approaching the problem of climate change?Â
+Satellite data is typically used to understand how climate change is impacting surface temperature. However, coral reefs and other essential marine ecosystems are not always near the surface. Ocean dynamics can mean thereâs a large temperature difference between the surface and where reefs live, just a few meters down. Temperature data collected by satellite just isnât that accurate when it comes to tracking reef survival.
+Aqualink
+aims to solve a specific problem that occurs when trying to monitor the oceanâs surface temperature from space.
+Aqualink is using a wide network of Sofar Ocean Smart Mooring buoys to measure the temperature at the ocean floor. âBy building as many of these buoys as we can, and deploying them around the world, we can begin to build a dataset that helps in understanding where and when heat stress in the ocean will occur,â explained
+Aqualink
+.Â
+Aqualink offers free buoys to volunteers, tour operators, researchers, and citizen scientists who can help expand the data collection network. Smart Moorings are used to collect temperature data every hour from both the surface and on the reef. This data is augmented with publicly available satellite data and models through NOAAâs âDaily Global 5km Satellite Coral Bleaching Heat Stress Monitoringâ reports. Sofar Ocean imports the data from NOAA, and Aqualink uses our API to render the data in their web application.Â
+Check out the map on
+Aqualink
+âs website â you see global map with pins for each proposed monitoring site. The map can be overlaid with global data such as
+Heat Stress
+or
+Sea Surface Temperature
+from
+NOAAâs Coral Reef Watch
+.
+Saving the worldâs coral reefs
+Better data is the first step to solving the climate crisis impacting our coral reefs. But we will also need to know what impact the temperature changes will have on the overall health of the reef. The data needs to be connected to observations. Aqualink coaches recreational divers and researchers on how to conduct meaningful surveys that are uploaded to the platform. By centralizing NOAA data, buoy data, and user-captured data in one place, scientists and coral reef experts all over the world can better understand and ultimately determine how to best protect these delicate ecosystems.Â
+Better temperature tracking can lead to the establishment of
+marine protected areas
+: national âparksâ in the ocean where fishing, mining, and tourism/recreational activities are off-limits. Over time, these marine reserves can help reefs become healthier and more resilient.Â
+There are already some promising developments in the mission to save coral reefs, specifically related to breeding heat-tolerant species of corals.Â
+Erinn Muller
+, the science director at the
+Elizabeth Moore International Center for Coral Reef Research and Restoration
+in Sarasota, Florida, is leading a team that harvests samples of corals that have survived the environmental stresses naturally, breeds them by hand, and then reattaches the corals to the reef. Other researchers are focusing on the genetic components of corals that are able to survive heat waves or consistently warmer ocean temperatures.Â
+Ultimately, however, no amount of scientific innovation will be able to overcome global warming if it continues at the current rate. Thatâs what makes Aqualink so powerful â the group is encouraging ordinary citizens outside the scientific community to play a part in protecting coral reefs, thus raising awareness on a broader scale.Â
+â
+Aqualink is just one group thatâs using Sofar Ocean technology to combat the impact of ocean climate change. More transparency and open sharing of information from Aqualink and others is just the first step toward building a concerted effort to protect our oceans. Read more about Sofar Oceanâs buoys
+here
+.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Customer Stories
+April 29, 2020
+Coastal risk assessment in a coral reef lagoon
+Customer Stories
+August 4, 2021
+6 Spotter buoys deployed in the Black Sea
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

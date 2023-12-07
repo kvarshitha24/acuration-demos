@@ -1,1 +1,94 @@
-send more ocean data for less using high data rate hdr mode sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch product product spotter system send more ocean data for less using high data rate hdr mode spotter 3s cellularenabled high data rate hdr mode allows you to send 1000x more data at a fraction of the cost sofar ocean december 23 2022 ï back product product spotter system send more ocean data for less using high data rate hdr mode sofar ocean spotter 3âs high data rate hdr mode sends 1000x more data at a fraction of the cost accessing the data collected by marine sensing devices is traditionally an expensive process typically data transmission occurs via satellite a powerful solution that is limited by high costs to send 200 kb worth of data via iridium for example expenses can exceed 100 spotter 3  the third generation of sofarâs spotter buoy platform offers a new alternative each device is outfitted with an onboard cellular modem which makes it possible to transfer data using existing global cellular infrastructure these cellular transfers enable spotter 3 to send 1000x more data at a fraction of the cost via the new high data rate hdr mode in nearshore environments this unlocks highbandwidth use cases that were previously impractical due to high satellite data transfer costs hdr allows for flexible control of spectral processing and makes it possible to send full wave displacement timeseries data to the sofar backend reduces reliance on spotterâs onboard sd card with more data sent via hdr less effort and time needs to be spent physically recovering the sd card high costs constrain spotter data transfers via satelliteâ prior to the introduction of hdr spotter data could only be transmitted via satellite to keep costs reasonable the amount and type of data transmitted is regulatedâ to reduce the size of the satellite data transfer the data is first preprocessed and compressed to meet the constraints of the preset spotter data mode  waves standard waves partition waves spectrum or track in each data mode the full timeseries of the spotterâs movement displacement data is stored on the onboard sd card to analyze and process the stored data the sd card needs to be physically retrieved from the deployed device the fastest data update rate possible excluding track is 30 minutes in waves standard this approach to data transmission remains effective particularly in the open ocean where cellular infrastructure is nonexistent for nearshore applications however hdr is a more powerful and costeffective solution how hdr transmits more data at a faster rate spotter 3s cellularenabled high data rate hdr mode allows full timeseries data to be transmitted to the spotter dashboard and api cellular telemetry dramatically lowers transmission costs eliminating the need to preprocess and compress spotter data into preset data modes using hdr you can transmit full timeseries data directly to the spotter dashboard and api first hdr sends compressed and preprocessed time series data over cellular to sofarâs backend servers the dataâs absolute location history is then reconstructed and filtered to generate the wave displacement data that previously would have been stored on spotterâs sd card that data is propagated across the three wave data modes waves standard waves partition waves spectrum  giving you instant access to a more comprehensive dataset at no additional cost hdr samples at 25hz and processing rates can be configured to as short as 5 minutes by shifting the computational load from spotterâs onboard computer to unconstrained servers on land hdr increases your access to data and enables more flexible and powerful analysis techniques how to enable hdr if you have a spotter 3 that is using firmware version v230 or higher you can enable hdr mode to do so please email us at supportsofaroceancom once enabled the hdr processing rate can be configured on the spotter dashboard data sent using hdr can be accessed via the sofar api see documentation  or by downloading csv files from the spotter dashboard hdr is a significant step forward for spotterâs ocean data collection and transmission capabilities new analysis options such as spectral and time partitioning different tuning and filtering capabilities and the removal of spikes in low energy conditions are forthcoming if you have feedback about hdr ideas for future features or any questions please feel free to send us an email at supportsofaroceancom sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories product july 19 2022 whats new in spotter 3 ocean science december 22 2022 chronicling an ocean buoyâs 20000 mile journey about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Send more ocean data for less using High Data Rate (HDR) mode
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Product
+Product
+Spotter System
+Send more ocean data for less using High Data Rate (HDR) mode
+Spotter 3's cellular-enabled High Data Rate (HDR) mode allows you to send 1000x more data at a fraction of the cost.
+Sofar Ocean
+December 23, 2022
+ï
+Back
+Product
+Product
+Spotter System
+Send more ocean data for less using High Data Rate (HDR) mode
+Sofar Ocean
+Spotter 3âs High Data Rate (HDR) mode sends 1000x more data at a fraction of the cost
+Accessing the data collected by marine sensing devices is traditionally an expensive process. Typically, data transmission occurs via satellite, a powerful solution that is limited by high costs; to send 200 kb worth of data via Iridium, for example, expenses can exceed $100.
+Spotter 3
+, the third generation of Sofarâs Spotter buoy platform, offers a new alternative. Each device is outfitted with an onboard cellular modem, which makes it possible to transfer data using existing global cellular infrastructure. These cellular transfers enable Spotter 3 to send
+1000x
+more data at a fraction of the cost
+via the new
+High Data Rate (HDR)
+mode. In nearshore environments, this:
+Unlocks high-bandwidth use cases that were previously impractical due to high satellite data transfer costs. HDR allows for flexible control of spectral processing and makes it possible to send full wave displacement time-series data to the Sofar backend.
+Reduces reliance on Spotterâs onboard SD card. With more data sent via HDR, less effort and time needs to be spent physically recovering the SD card.
+High costs constrain Spotter data transfers via satelliteÂ
+Prior to the introduction of HDR, Spotter data could only be transmitted via satellite. To keep costs reasonable, the amount and type of data transmitted is regulated:Â
+To reduce the size of the satellite data transfer, the data is first pre-processed and compressed to meet the constraints of the preset
+Spotter data mode
+: Waves: Standard, Waves: Partition, Waves: Spectrum, or Track.
+In each data mode, the full time-series of the Spotterâs movement (displacement data) is stored on the onboard SD card. To analyze and process the stored data, the SD card needs to be physically retrieved from the deployed device.
+The fastest data update rate possible, excluding Track, is 30 minutes in Waves: Standard.
+This approach to data transmission remains effective, particularly in the open ocean where cellular infrastructure is nonexistent. For nearshore applications, however, HDR is a more powerful and cost-effective solution.
+How HDR transmits more data at a faster rate
+Spotter 3's cellular-enabled High Data Rate (HDR) mode allows full time-series data to be transmitted to the Spotter dashboard and API.
+Cellular telemetry dramatically lowers transmission costs, eliminating the need to pre-process and compress Spotter data into preset data modes. Using HDR,
+you can transmit full time-series data directly to the Spotter dashboard and API:
+First, HDR sends compressed and pre-processed time series data over cellular to Sofarâs backend servers.
+The dataâs absolute location history is then reconstructed and filtered to generate the wave displacement data that previously would have been stored on Spotterâs SD card.
+That data is propagated across the three Wave: data modes (Waves: Standard, Waves: Partition, Waves: Spectrum ), giving you instant access to a more comprehensive dataset at no additional cost. HDR samples at 2.5Hz and processing rates can be configured to as short as 5 minutes.
+By shifting the computational load from Spotterâs onboard computer to unconstrained servers on land, HDR increases your access to data and enables more flexible and powerful analysis techniques.
+How to enable HDR
+If you have a Spotter 3 that is using
+firmware version v2.3.0 or higher,
+you can enable HDR mode. To do so, please email us at support@sofarocean.com.
+Once enabled, the HDR processing rate can be configured on the Spotter dashboard. Data sent using HDR can be accessed via the Sofar API (see
+documentation
+) or by downloading .CSV files from the Spotter dashboard.
+HDR is a significant step forward for Spotterâs ocean data collection and transmission capabilities. New analysis options, such as spectral and time partitioning, different tuning and filtering capabilities, and the removal of spikes in low energy conditions, are forthcoming.
+If you have feedback about HDR, ideas for future features, or any questions, please feel free to send us an email at support@sofarocean.com.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Product
+July 19, 2022
+What's new in Spotter 3?
+Ocean Science
+December 22, 2022
+Chronicling an ocean buoyâs 20,000 mile journey
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

@@ -1,1 +1,123 @@
-updated algorithm improves accuracy of spotterâs wind velocity measurements sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch ocean science ocean science analysis updated algorithm improves accuracy of spotterâs wind velocity measurements the spotter buoys updated wind algorithm greatly improves the reliability of its estimates of wind velocity particularly at high speeds sofar ocean february 21 2023 ï back ocean science ocean science analysis updated algorithm improves accuracy of spotterâs wind velocity measurements sofar ocean the updated algorithm increases the reliability and accuracy of spotterâs wind velocity measurements spotterâs estimates of wind velocity are now more accurate and reliable sofarâs spotter buoy collects and transmits ocean data in realtime the buoy is outfitted with a variety of measurement tools that make direct observations of ocean conditions at the sea surface barometric pressure for example is recorded using an onboard barometerâ not all observations reported by spotters are direct measurements this ensures that the device can deliver as many ocean insights as possible without becoming overloaded with specialized and costly measurement devices observations that are not made directly are derived  spotter makes an observation of a variable that can be directly measured the observation is processed through an algorithm the algorithm yields a contemporaneous measurement of a variable that can otherwise not be directly measured spotter uses this approach to measure wind velocity because the device does not have a dedicated wind sensor onboard and given the strongly coupled relationship between winds and waves wind velocity is derived from the observed wave spectrum this is a logical approach but like any inference is susceptible to inaccuracy because several approximations must be made to produce the estimate recently tomoya shimura and his fellow researchers at the university of kyoto contacted sofar with a suggested update to the wind velocity algorithm the change which was rigorously tested by our team greatly improves the reliability of spotterâs estimates of wind velocity particularly at high speeds  the updated wind velocity algorithm is now available to all spotter 3 customers via the latest firmware upgrade  satellite altimeter data validates updated wind velocity algorithm to assess the accuracy of the updated algorithm and the original algorithm we compared the wind velocity magnitude estimates at 10 meters u 10  made by the global grid of spotter buoys to the estimates of u 10 made by altimeters on governmentoperated satellites  altimeter observations which are made as satellites circle earth are widely used by forecasting centers as the satellites sample swaths of ocean that are populated by freedrifting spotters we can compare the altimeter and buoysâ estimates of wind velocity in the areas of overlap in figure 1  we compare the collocated observations of wind velocity made by satellite altimeters and our global grid of spotter buoys from january to december 2022 using the updated left and original right wind algorithmâ figure 1 results from comparisons of wind velocity magnitude estimates at 10 metersâ u10 as calculated by the updated figure 1a and original figure 1b wind algorithms onboard grid spotters and satellite altimeters from january to december 2022 satellite altimeter values are shown on the xaxis and spotter values are shown on the yaxis each point represents an instance where a satellite measurement and a spotter measurement were near each other in time and space an additional condition controlling for significant wave height was implemented to ensure that the satellite and spotter were measuring conditions in similar sea states the color scale for the points represents the density of observations warm colored regions indicate the most commonly measured wind speed values around 5 to 9 ms in both figures cool colored regions indicate wind speeds less commonly observed by the instruments included in this analysis values for rootmeansquare error and bias are 141 ms and 015 ms respectively for the updated algorithm and 173 ms and 073 ms for the original algorithm satellite altimeter measurements of wind speed are also derived and their measurements are subject to their own observational errors when using the original wind algorithm figure 1b right we observe that outside of the 5 to 10 ms range spotters consistently underestimate wind speed relative to the satellite altimetersâ observations spotters fail to capture higher values of wind speed especially above a threshold of about 18 ms when using the updated wind algorithm figure 1a left we observe that the estimates of wind velocity made by grid spotters and satellite altimeters are more closely aligned across a larger range of wind speed values the range of wind speeds estimated by the grid spotters are more consistent with the range estimated by the satellite altimeters at high wind speeds the spotter estimates align more closely to the satellite altimetersâ estimates overall the updated wind algorithm significantly improves the reliability of the spotter wind velocity estimates when compared to estimates made by satellite altimetersâ how to access the updated wind velocity algorithm to ensure that your spotter 3 is using the updated wind algorithm please install the latest firmware update or reach out to customer support at supportsofaroceancom  special thanks to tomoya shimura and his fellow researchers at the university of kyoto ânobuhito mori yasuyuki baba and takuya miyashita â for making this update possible we encourage you to read their full article discussing the wind velocity algorithm in the journal of geophysical research oceans  the sofar team encourages and appreciates feedback if you have a suggestion for a future update to spotter or smart mooring please send an email to supportsofaroceancom   to receive the latest posts about marine sensing devices in your inbox subscribe to our blog  to speak with a sofar representative schedule a spotter smart buoy demo or data services demo  sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories product december 23 2022 send more ocean data for less using high data rate hdr mode product july 19 2022 whats new in spotter 3 ocean science december 22 2022 chronicling an ocean buoyâs 20000 mile journey about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Updated algorithm improves accuracy of Spotterâs wind velocity measurements
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Ocean Science
+Ocean Science
+Analysis
+Updated algorithm improves accuracy of Spotterâs wind velocity measurements
+The Spotter buoy's updated wind algorithm greatly improves the reliability of its estimates of wind velocity, particularly at high speeds.
+Sofar Ocean
+February 21, 2023
+ï
+Back
+Ocean Science
+Ocean Science
+Analysis
+Updated algorithm improves accuracy of Spotterâs wind velocity measurements
+Sofar Ocean
+The updated algorithm increases the reliability and accuracy of Spotterâs wind velocity measurements.
+Spotterâs estimates of wind velocity are now more accurate and reliable
+Sofarâs
+Spotter
+buoy collects and transmits ocean data in real-time. The buoy is outfitted with a variety of measurement tools that make direct observations of ocean conditions at the sea surface. Barometric pressure, for example, is recorded using an onboard barometer.Â
+Not all observations reported by Spotters are direct measurements. This ensures that the device can deliver as many ocean insights as possible, without becoming overloaded with specialized and costly measurement devices. Observations that are not made directly are
+derived
+:
+Spotter makes an observation of a variable that can be directly measured.
+The observation is processed through an algorithm.
+The algorithm yields a contemporaneous measurement of a variable that can otherwise not be directly measured.
+Spotter uses this approach to measure wind velocity. Because the device does not have a dedicated wind sensor onboard and given the strongly coupled relationship between winds and waves, wind velocity is derived from the observed wave spectrum. This is a logical approach, but, like any inference, is susceptible to inaccuracy because several approximations must be made to produce the estimate.
+Recently, Tomoya Shimura and his fellow researchers at the University of Kyoto contacted Sofar with a suggested update to the wind velocity algorithm. The change, which was rigorously tested by our team,
+greatly improves the reliability of Spotterâs estimates of wind velocity, particularly at high speeds
+. The updated wind velocity algorithm is now available to all
+Spotter 3
+customers via the latest
+firmware upgrade
+.
+Satellite altimeter data validates updated wind velocity algorithm
+To assess the accuracy of the updated algorithm and the original algorithm, we compared the wind velocity magnitude estimates at 10 meters (U
+10
+) made by the global grid of Spotter buoys to the estimates of U
+10
+made by
+altimeters on government-operated satellites
+. Altimeter observations, which are made as satellites circle Earth, are widely used by forecasting centers. As the satellites sample swaths of ocean that are populated by free-drifting Spotters, we can compare the altimeter and buoysâ estimates of wind velocity in the areas of overlap.
+In
+Figure 1
+, we compare the collocated observations of wind velocity made by satellite altimeters and our global grid of Spotter buoys from January to December 2022 using the updated (left) and original (right) wind algorithm.Â
+Figure 1.
+Results from comparisons of wind velocity magnitude estimates at 10 metersÂ (U10) as calculated by the updated (Figure 1a) and original (Figure 1b) wind algorithms onboard grid Spotters, and satellite altimeters from January to December 2022.
+Satellite altimeter values are shown on the x-axis and Spotter values are shown on the y-axis. Each point represents an instance where a satellite measurement and a Spotter measurement were near each other in time and space. An additional condition controlling for significant wave height was implemented to ensure that the satellite and Spotter were measuring conditions in similar sea states. The color scale for the points represents the density of observations. Warm colored regions indicate the most commonly measured wind speed values (around 5 to 9 m/s in both figures). Cool colored regions indicate wind speeds less commonly observed by the instruments included in this analysis. Values for root-mean-square error and bias are 1.41 m/s and 0.15 m/s respectively for the updated algorithm and 1.73 m/s and 0.73 m/s for the original algorithm. Satellite altimeter measurements of wind speed are also derived and their measurements are subject to their own observational errors.
+When using the original wind algorithm (Figure 1b, right), we observe that:
+Outside of the 5 to 10 m/s range, Spotters consistently underestimate wind speed relative to the satellite altimetersâ observations.
+Spotters fail to capture higher values of wind speed, especially above a threshold of about 18 m/s.
+When using the updated wind algorithm (Figure 1a, left), we observe that:
+The estimates of wind velocity made by grid Spotters and satellite altimeters are more closely aligned across a larger range of wind speed values.
+The range of wind speeds estimated by the grid Spotters are more consistent with the range estimated by the satellite altimeters.
+At high wind speeds, the Spotter estimates align more closely to the satellite altimetersâ estimates.
+Overall, the updated wind algorithm significantly improves the reliability of the Spotter wind velocity estimates when compared to estimates made by satellite altimeters.Â
+How to access the updated wind velocity algorithm
+To ensure that your Spotter 3 is using the updated wind algorithm, please install the latest
+firmware update
+or reach out to customer support at
+support@sofarocean.com
+.
+Special thanks to Tomoya Shimura and his fellow researchers at the University of Kyoto âNobuhito Mori, Yasuyuki Baba, and Takuya Miyashita â for making this update possible. We encourage you to read their full
+article
+discussing the wind velocity algorithm in the
+Journal of Geophysical Research: Oceans
+. The Sofar team encourages and appreciates feedback. If you have a suggestion for a future update to Spotter or Smart Mooring, please send an email to
+support@sofarocean.com
+.
+--
+To receive the latest posts about marine sensing devices in your inbox,
+subscribe to our blog
+. To speak with a Sofar representative, schedule a
+Spotter smart buoy demo
+or
+Data Services demo
+.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Product
+December 23, 2022
+Send more ocean data for less using High Data Rate (HDR) mode
+Product
+July 19, 2022
+What's new in Spotter 3?
+Ocean Science
+December 22, 2022
+Chronicling an ocean buoyâs 20,000 mile journey
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

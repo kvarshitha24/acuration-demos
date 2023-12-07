@@ -1,1 +1,75 @@
-storm wave monitoring in rio de janeiro sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch customer stories customer stories no items found storm wave monitoring in rio de janeiro learn how the marine meteorological service of brazil was able to mobilize and deploy a spotter buoy within hours of receiving a storm warning affecting copacabana beach sofar ocean april 28 2021 ï back customer stories customer stories no items found storm wave monitoring in rio de janeiro sofar ocean this blog was written by lieutenant tobias ramalho felippe galdino lieutenant felipe lãllis luiz alexandre a guerra and andrã lima t mendes of the brazilian navy the marine meteorological service of brazilâs smmâs mission is to generate and disseminate weather forecast products and weather warnings for the maritime area known internationally as metarea v in accordance with brazilâs obligations to the international convention for the safety of life at sea 19741988â on february 4 the smmpart of the marine hydrography center chm of the brazilian navypublished a high surf warning for the south and southeast coast of brazil to monitor and record storm conditions the brazilian navy mobilized a team immediately to deploy a spotter buoy for one week this deployment served as an experiment to determine the feasibility of using the spotter to monitor storm waves near the shore as a point of comparison the spotter was attached to a metocean buoy from the brazilian coast monitoring system simcosta in front of copacabana beach figure 1 this arrangement would make it possible to compare data collected by two buoys that use different technologies for wave measurements specifically the spotter uses gps signals whereas the metocean buoy watchkeeper rj3 uses inertial sensorsâ figure 1 location of the buoy deployment closed to watchkeeper rj3 buoy  httpssimcostafurgbrhome  deployment depth 18 meters â figure 2 arrangement of the spotter attached to a reference metocean buoy you can see the silhouette of the mountains of the city of rio de janeiro and the sugarloaf mountain in the background â on february 6th the analysis fields of the wavewatch iii model showed large waves hitting the coast due to an extratropical cyclone between uruguay and south brazil figure 3 figure 3 significant wave height hs from the wavewatch iii model driven by winds from the atmospheric model cosmo consortium for smallscale modelling for 00z february 6 and 7 2021 the chm runs both wave and atmospheric models as part of the forecasting routine data transmitted by the spotter buoy were processed in realtime using an automated quality control algorithm and published on a web page exclusively created for this purpose in addition to the environmental parameters the team could also check the buoyâs position in realtime which helped to maintain confidence that the buoy had not come off its mooring or gone missing analysis of the nondirectional wave spectrum showed the arrival of the swell on february 5 at 10 pm figure 4 a noticeable increase of wave energy occurred with peak periods between 12 and 14 seconds until february 7 during the whole storm event the swell was dominant on february 11 the wave energy decreased and the period returned to 10 seconds typical of the local sea figure 4 temporal variation of the nondirectional wave spectrum during the occurrence of the high surf event in february 2021 with the analysis of the wave parameters sampled by the spotter it was possible to observe a significant wave height hs of up to 225 meters and a mean period of 11 seconds coming from the south quadrant the maximum individual wave height was estimated as high as 4 meters the comparison of the data collected by spotter shows a strong correlation with the data from the rj3 buoy which was used as a reference with significant wave height hs being the bestcorrelated variable r  0987 another variable with a good correlation r  0975 was the mean period figure 5 however the values measured by rj3 and spotter buoys remained with an approximately constant difference during the experiment 12 seconds on average differences may be related to the different measurement methodologies and the algorithms for calculating the average period it is essential to state that this noted difference is negligible to evaluate the effects of waves on surf events figure 5 average direction period and hs measured by spotter buoy during the high surf event off the coast of rio de janeiro it is also possible to observe the comparison with the data measured by the rj3 buoy from simcosta in addition to the good quality of the data collected and agreement in measurement when compared to a reference metocean buoy system the ease of handling the spotter and its low cost showed that it is ideal for data collection over short periods that demand a quick mobilizationâ the reduced size and weight of the spotter buoy facilitates a fast response in situations such as the one faced on february 4th 2021 by the smm and allowed them to deploy immediately from vessels of opportunity finally the lower weight of the buoy implies a lower impact on the mooring thereby reducing the potential for mooring breakage data from the buoy can be used for calibration and data validation of numerical models especially in highly energetic events such as high surf and storm surges improving forecasts and warnings of bad weather contributes directly to our goals of safety of navigation and the safeguard of human life at seawith the additional benefit of positively impacting economic and leisure activities we greatly appreciate the permission from petrã³leo brasileiro sa petrobras and brazilian navy hidrografic centre chm to publish this material from a brazilian petroleum agency anp funded project we thank to projeto simcosta for sharing rj3 buoy data and letting the attachment of spotter buoy to it thank should also be directed to chm numerical forecast division for model results and to camr for the logistic support acknowledgement is also made to prof luciano pezzi inpedsr for useful information and comments during experiment design phase sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories ocean science february 26 2020 the science behind sofar ocean marine weather forecasts about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Storm wave monitoring in Rio de Janeiro
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Customer Stories
+Customer Stories
+No items found.
+Storm wave monitoring in Rio de Janeiro
+Learn how the Marine Meteorological Service of Brazil was able to mobilize and deploy a Spotter buoy within hours of receiving a storm warning affecting Copacabana Beach.
+Sofar Ocean
+April 28, 2021
+ï
+Back
+Customer Stories
+Customer Stories
+No items found.
+Storm wave monitoring in Rio de Janeiro
+Sofar Ocean
+This blog was written by Lieutenant Tobias Ramalho, Felippe Galdino, Lieutenant Felipe LÃ©llis, Luiz Alexandre A. Guerra, and AndrÃ© Lima T. Mendes of the Brazilian Navy.
+The Marine Meteorological Service of Brazilâs (SMMâs) mission is to generate and disseminate weather forecast products, and weather warnings for the maritime area known internationally as METAREA V, in accordance with Brazilâs obligations to the International Convention for the Safety of Life at Sea, 1974/1988.Â
+On February 4, the SMM--part of the Marine Hydrography Center (CHM) of the Brazilian Navy--published a High Surf Warning for the South and Southeast coast of Brazil. To monitor and record storm conditions, the Brazilian Navy mobilized a team immediately to deploy a Spotter buoy for one week.
+This deployment served as an experiment to determine the feasibility of using the Spotter to monitor storm waves near the shore. As a point of comparison, the Spotter was attached to a metocean buoy from the Brazilian Coast Monitoring System (SiMCosta) in front of Copacabana Beach (Figure 1). This arrangement would make it possible to compare data collected by two buoys that use different technologies for wave measurements. Specifically, the Spotter uses GPS signals whereas the metocean buoy WatchKeeper RJ-3 uses inertial sensors.Â
+Figure 1: Location of the buoy deployment, closed to WatchKeeper RJ-3 buoy (
+https://simcosta.furg.br/home
+). Deployment depth: 18 meters.
+â
+Figure 2: Arrangement of the Spotter attached to a reference metocean buoy. You can see the silhouette of the mountains of the City of Rio de Janeiro and the Sugarloaf Mountain in the background.
+â
+On February 6th, the analysis fields of the Wavewatch III model showed large waves hitting the coast, due to an extratropical cyclone between Uruguay and South Brazil (Figure 3).
+Figure 3: Significant wave height (Hs) from the Wavewatch III model driven by winds from the atmospheric model COSMO (Consortium for Small-scale Modelling) for 00Z February 6 and 7, 2021. The CHM runs both wave and atmospheric models as part of the forecasting routine.
+Data transmitted by the Spotter buoy were processed in real-time using an automated quality control algorithm, and published on a web page exclusively created for this purpose. In addition to the environmental parameters, the team could also check the buoyâs position in real-time, which helped to maintain confidence that the buoy had not come off its mooring or gone missing.
+Analysis of the non-directional wave spectrum showed the arrival of the swell on February 5, at 10 pm (Figure 4). A noticeable increase of wave energy occurred with peak periods between 12 and 14 seconds until February 7. During the whole storm event, the swell was dominant. On February 11, the wave energy decreased, and the period returned to 10 seconds, typical of the local sea.
+Figure 4: Temporal variation of the nondirectional wave spectrum during the occurrence of the high surf event in February 2021.
+With the analysis of the wave parameters sampled by the Spotter, it was possible to observe a Significant Wave Height (Hs) of up to 2.25 meters and a mean period of 11 seconds, coming from the South quadrant. The maximum individual wave height was estimated as high as 4 meters.
+The comparison of the data collected by Spotter shows a strong correlation with the data from the RJ-3 buoy which was used as a reference, with Significant Wave Height (Hs) being the best-correlated variable (R = 0.987). Another variable with a good correlation (R = 0.975) was the mean period (Figure 5). However, the values measured by RJ-3 and Spotter buoys remained with an approximately constant difference during the experiment (1.2 seconds on average). Differences may be related to the different measurement methodologies and the algorithms for calculating the average period. It is essential to state that this noted difference is negligible to evaluate the effects of waves on surf events.
+Figure 5: Average direction, period, and Hs measured by Spotter buoy during the high surf event off the coast of Rio de Janeiro. It is also possible to observe the comparison with the data measured by the RJ-3 buoy from SiMCosta.
+In addition to the good quality of the data collected and agreement in measurement when compared to a reference metocean buoy system, the ease of handling the Spotter and its low cost showed that it is ideal for data collection over short periods that demand a quick mobilization.Â  The reduced size and weight of the Spotter buoy facilitates a fast response in situations such as the one faced on February 4th, 2021 by the SMM, and allowed them to deploy immediately from vessels of opportunity. Finally, the lower weight of the buoy implies a lower impact on the mooring, thereby reducing the potential for mooring breakage. Data from the buoy can be used for calibration and data validation of numerical models, especially in highly energetic events such as high surf and storm surges. Improving forecasts and warnings of bad weather contributes directly to our goals of Safety of Navigation and the Safeguard of Human Life at Sea--with the additional benefit of positively impacting economic and leisure activities.
+We greatly appreciate the permission from PetrÃ³leo Brasileiro S.A. (PETROBRAS) and Brazilian Navy Hidrografic Centre (CHM) to publish this material from a Brazilian Petroleum Agency (ANP) funded Project. We thank to Projeto SiMCosta for sharing RJ-3 Buoy data and letting the attachment of Spotter buoy to it. Thank should also be directed to CHM Numerical Forecast Division for model results and to CAMR for the logistic support. Acknowledgement is also made to Prof. Luciano Pezzi (INPE/DSR) for useful information and comments during experiment design phase.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Ocean Science
+February 26, 2020
+The Science Behind Sofar Ocean Marine Weather Forecasts
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

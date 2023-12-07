@@ -1,1 +1,39 @@
-climate commitment sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch climate commitment at sofar we put the ocean first we empower science society and industry to be stewards for the sea and help make a more sustainable future possible for our planet voyage optimization to reduce emissions maritime shipping companies use our wayfinder platform to make immediate term progress towards their decarbonization goals vessels following wayfinderâs optimized guidance achieve average fuel and emissions savings of 46 ocean data at scale to close knowledge gap researchers operators and innovators deploy the spotter platform and use the sofar api to unlock ocean data at scale and accelerate marine research and sustainable commercial solutions sustainablyâ managingâ theâ spotterâ network sofar owns and operates the worldâs largest privatelyowned network of ocean sensors we work with customers and partners to deploy freedrifting spotters from vessels in targeted locations across the global ocean we use gps to track the position of every spotter if a spotter washes ashore we work with citizens communities and regional partners to assess the state of the spotter and determine whether to redeploy safely dispose of or send the device to sofar hq for analysis found a spotter please contact us at supportsofaroceancom to minimize our environmental impact we track all of our buoys through gps we know where they are at all times and monitor them for problems via satellite are currently developing a version of the spotter buoy incorporating a biodegradable hull that dissolves after its useful lifespan have a buoy bounty program when our buoys go offgrid we have a program in place to retrieve them and reward the individuals who recover them understand that any plastic pollution is problematic and we also recognize that our products are significantly offset approximately 1390 cargo containers fall off ships each year this is a massive source of ocean pollution if our network prevents even one cargo container from falling overboard we have offset our potential pollution offset the presence of our buoy network by removing 21000 pieces of plastic waste from the oceans each month 5000 kgs per year through plastic bank improve voyage safety oceans drive our weather and climate which impacts everyone every human every industry and every country reliable and robust ocean data is central to understanding our changing planet to help progress science and research we are making our data available to academic researchers focused on understanding ocean dynamics and mitigating the effects of climate change on our planet and weather the ipccâs special report on the ocean and cryosphere in a changing climate was blunt and sobering highquality ocean data at sufficient scale and density to improve our understanding and models remains a formidable challenge weâre committed to doing our part by providing the global research community with more and better data if youre an academic researcher interested in using our data or adding research instruments to our platform please refer to our noncommercial data program work in academia apply for a free license at sofar weâre committed to advancing ocean research and innovation to build a more sustainable future for humanity to this end weâre supporting all scientists at sea in their ocean innovation efforts get direct and easy api access to the largest global ocean data sensor network apply for free academic access about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Climate Commitment
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Climate Commitment
+At Sofar, we put the ocean first. We empower science, society, and industry to be stewards for the sea, and help make a more sustainable future possible for our planet.
+VOYAGE OPTIMIZATION TO REDUCE EMISSIONS
+Maritime shipping companies use our Wayfinder platform to make immediate term progress towards their decarbonization goals. Vessels following Wayfinderâs optimized guidance achieve average fuel and emissions savings of 4-6%
+OCEAN DATA AT SCALE TO CLOSE KNOWLEDGE GAP
+Researchers, operators, and innovators deploy the Spotter platform and use the Sofar API to unlock ocean data at scale and accelerate marine research and sustainable commercial solutions.
+SUSTAINABLYÂ MANAGINGÂ THEÂ SPOTTERÂ NETWORK
+Sofar owns and operates the worldâs largest privately-owned network of ocean sensors. We work with customers and partners to deploy free-drifting Spotters from vessels in targeted locations across the global ocean. We use GPS to track the position of every Spotter. If a Spotter washes ashore, we work with citizens, communities, and regional partners to assess the state of the Spotter and determine whether to redeploy, safely dispose of, or send the device to Sofar HQ for analysis. Found a Spotter? Please contact us at support@sofarocean.com.
+Work in academia? Apply for a free license!
+At Sofar, weâre committed to advancing ocean research and innovation to build a more sustainable future for humanity. To this end, weâre supporting all scientists at sea in their ocean innovation efforts.
+Get direct and easy API access to the largest global ocean data sensor network.
+Apply for free academic access
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

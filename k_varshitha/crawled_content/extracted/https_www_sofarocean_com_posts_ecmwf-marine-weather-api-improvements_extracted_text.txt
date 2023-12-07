@@ -1,1 +1,102 @@
-incorporating ecmwf data to produce marine weather api improvements sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch ocean science ocean science analysis incorporating ecmwf data to produce marine weather api improvements a closer look at how ecmwf data enhances sofars global wave forecasting system and marine weather api sofar ocean october 25 2022 ï back ocean science ocean science analysis incorporating ecmwf data to produce marine weather api improvements sofar ocean sofar data services provide access to the largest planetary scale ocean data network which includes sofarâs global marine weather forecast realtime and historical sensor data from the sofar spotter buoy network wave spectra around the world the sofar team always strives to augment these ocean data offerings and is excited to share two improvements to the sofar marine weather api  letâs dive into the details more accurate marine weather forecasts sofarâs global wave forecasting system now uses wind data from the european centre for mediumrange weather forecasts ecmwf â recognized as the world leader in global forecasting â to produce wave predictions this is a foundational upgrade that increases the accuracy of sofarâs ocean weather forecasts generally using ecmwf winds instead of national oceanic and atmospheric administration noaa global forecast system gfs winds has led to improvements in sofarâs wave forecast skill of greater than 20 an ecmwfforced waves endpoint is now available on the marine weather api the ecmwfforced waves endpoint is complemented by realtime ocean observations collected by the global spotter buoy network which are used to initialize forecasts and have lasting effects throughout the forecast horizon figure 1 demonstrates how ecmwfforced waves and buoy observations are operationalized figure 1 diagram showing how sofarâs marine weather api operationalizes ecmwfforced waves and spotter buoy observations bias correction for ecmwf winds the marine weather api now also includes an endpoint for sofarâs biascorrected ecmwf winds this new ecmwfsofar winds endpoint applies a statistical correction that improves accuracy in surface winds by removing consistently appearing errors in the ecmwf forecasts so far results have shown overall improvements in wind forecasts at lead times up to three days in the tropics  23âº ns the gulf of mexico and the indian ocean success that the sofar team looks forward to building upon figure 2 visualizes how this endpoint is produced and operationalized figure 2 diagram showing how the ecmwfsofar winds endpoint is produced and operationalized using the marine weather api using the marine weather api to increase situational awareness a common use case of the marine weather api is the incorporation of weather data into a common operational picture cop a cop displays all relevant operational information for a project mission etc and informs planning and decision making in figure 3  a sample cop built in the esri platform displays active offshore pipelines black lines spotter buoy drift tracks yellow lines and using the marine weather api sofarâs global wave forecast colored by significant wave height cops like this increase situational awareness for blue economy stakeholders operating in the gulf of mexico to support safety  risk assessment environmental monitoring and site characterization figure 3 a sample cop made using the esri platform shows active offshore pipelines black lines spotter buoy drift tracks yellow lines and sofarâs global wave forecast â incorporated using the marine weather api â colored by significant wave height to learn more visit the data services page or schedule a data services demo  sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories ocean science may 14 2022 data assimilation part i bringing ocean observations into wave forecasts ocean science may 14 2022 data assimilation part ii improving the wave forecast of a north atlantic storm ocean science september 30 2022 swell chasing tracking a wave from the north pacific to mavericks about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+Incorporating ECMWF data to produce marine weather API improvements
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Ocean Science
+Ocean Science
+Analysis
+Incorporating ECMWF data to produce marine weather API improvements
+A closer look at how ECMWF data enhances Sofar's global wave forecasting system and Marine Weather API.
+Sofar Ocean
+October 25, 2022
+ï
+Back
+Ocean Science
+Ocean Science
+Analysis
+Incorporating ECMWF data to produce marine weather API improvements
+Sofar Ocean
+Sofar Data Services
+provide access to the largest planetary scale ocean data network, which includes:
+Sofarâs global marine weather forecast
+Real-time and historical sensor data from the Sofar
+Spotter
+buoy network
+Wave spectra around the world
+The Sofar team always strives to augment these ocean data offerings and is excited to share two improvements to the Sofar
+Marine Weather API
+. Letâs dive into the details.
+More Accurate Marine Weather Forecasts
+Sofarâs global wave forecasting system now uses wind data from the
+European Centre for Medium-Range Weather Forecasts
+(ECMWF) â recognized as the world leader in global forecasting â to produce wave predictions. This is a foundational upgrade that increases the accuracy of Sofarâs ocean weather forecasts. Generally, using ECMWF winds instead of
+National Oceanic and Atmospheric Administration
+(NOAA) Global Forecast System (GFS) winds has led to improvements in Sofarâs wave forecast skill of greater than 20%. An ECMWF-forced waves endpoint is now available on the Marine Weather API.
+The ECMWF-forced waves endpoint is complemented by real-time ocean observations collected by the global Spotter buoy network, which are used to initialize forecasts and have lasting effects throughout the forecast horizon.
+Figure 1
+demonstrates how ECMWF-forced waves and buoy observations are operationalized.
+Figure 1.
+Diagram showing how Sofarâs Marine Weather API operationalizes ECMWF-forced waves and Spotter buoy observations.
+Bias Correction for ECMWF Winds
+The Marine Weather API now also includes an endpoint for Sofarâs bias-corrected ECMWF winds. This new ECMWF+Sofar winds endpoint applies a statistical correction that improves accuracy in surface winds by removing consistently appearing errors in the ECMWF forecasts. So far, results have shown overall improvements in wind forecasts at lead times up to three days in the Tropics (+/- 23Âº N/S), the Gulf of Mexico, and the Indian Ocean, success that the Sofar team looks forward to building upon.
+Figure 2
+visualizes how this endpoint is produced and operationalized.
+Figure 2.
+Diagram showing how the ECMWF+Sofar winds endpoint is produced and operationalized using the Marine Weather API.
+Using the Marine Weather API to Increase Situational Awareness
+A common use case of the Marine Weather API is the incorporation of weather data into a Common Operational Picture (COP). A COP displays all relevant operational information for a project, mission, etc. and informs planning and decision making.
+In
+Figure 3
+, a sample COP built in the
+Esri
+platform displays active offshore pipelines (black lines), Spotter buoy drift tracks (yellow lines) and, using the Marine Weather API, Sofarâs global wave forecast colored by significant wave height. COPs like this increase situational awareness for blue economy stakeholders operating in the Gulf of Mexico to support safety & risk assessment, environmental monitoring, and site characterization.
+Figure 3.
+A sample COP made using the Esri platform shows active offshore pipelines (black lines), Spotter buoy drift tracks (yellow lines), and Sofarâs global wave forecast â incorporated using the Marine Weather API â colored by significant wave height.
+To learn more, visit the
+Data Services page
+or
+schedule a Data Services demo
+.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Ocean Science
+May 14, 2022
+Data assimilation part I: bringing ocean observations into wave forecasts
+Ocean Science
+May 14, 2022
+Data assimilation part II: improving the wave forecast of a North Atlantic storm
+Ocean Science
+September 30, 2022
+Swell chasing: tracking a wave from the North Pacific to Mavericks
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

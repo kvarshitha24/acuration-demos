@@ -1,1 +1,120 @@
-how to reduce a vessels carbon intensity sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch ocean science ocean science analysis how to reduce a vessels carbon intensity an introduction to vessel carbon intensity the new mandates regulating it and the tools used by the shipping industry to reduce it sofar ocean november 16 2022 ï back ocean science ocean science analysis how to reduce a vessels carbon intensity sofar ocean starting in january 2023 the international maritime organization imo will require shipping companies to track the carbon intensity of vessels based on the data collected each ship will receive a carbon intensity indicator cii rating an assessment of how efficiently the ship moves cargo in terms of the greenhouse gas emissions ghg it produces the outlook for many shipsâ forthcoming cii grades is not positive in one esg assessment  over one third of the worldâs vessels were projected to receive a failing cii grade to ensure that their ships are compliant when regulations go into effect owners and operators must understand what vessel carbon intensity is how the imo measures it and what tools they can use to reduce it what is carbon intensity and how is it calculated in the shipping industry a vesselâs carbon intensity is a measure of its greenhouse gas emissions relative to the amount of cargo it carries over a certain distance to calculate carbon intensity the imo uses the following formula  annual efficiency ratio aer  annual fuel consumption x co2 emission factor  annual distance sailed x design deadweight of the vessel â â cii  aer adjusted for corrections  exclusions a shipâs co2 emission factor is calculated based on the type of fuel used to power it a shipâs design deadweight is the maximum amount of cargo plus crew fuel etc that it can carry â cii scores will translate to an a  e grade with a being the best rating ships that earn a d or e grade will be required to submit a â corrective action plan â which outlines how the vessel will make the improvements necessary to achieve a minimum c rating the criteria for achieving a passing grade will become more stringent each year an aggressive approach in line with the imoâs goal to reduce the shipping industryâs ghg emissions by as much as 70 by 2050 key stakeholders such as port authorities are encouraged to offer incentives to companies that use ships with high cii ratings how to reduce a vesselâs carbon intensity two of the primary carbon intensity reduction strategies focus on fuel consumption they are using alternative types of fuel that when burned emit less ghgs than fossil fuels using voyage optimization tools to find more efficient routes and burn less fuel the full potential of alternative fuels  such as biofuels liquified natural gas lng clean ammonia and other less carbonintensive inputs has yet to be unlocked that said major shipping companies like maersk and cma cgm are actively investing in these potential replacements zerocarbon fuel â fuel that emits no ghgs â is currently neither affordable nor scalable the shipping industryâs carbon intensity reduction goals may still be met absent a âsilver bulletâ alternative fuel existing technologies in particular offer immediate solutions i would support the suggestion that the existing tech can get to 11 carbon intensity improvementâ said tristan smith an associate professor at ucl energy institute and the director of university maritime advisory services in a conversation with sp global  âwe estimate that existing mature tech can get to a 31 carbon intensity improvement by 2030 without any change in fuel carbon intensity shipping route optimization is an existing technology with particular promise according to an imo estimate  a vessel that follows a route with optimized weather conditions can reduce fuel consumption by up to 3 during a voyage â sofar oceanâs wayfinder provides fleets with continuously optimized voyage guidance using sofarâs highly accurate forecasts powered by the largest ocean weather sensor network wayfinder sends daily speed and waypoint recommendations that put vessels on the least weatherrestricted path to port these recommendations take into account vesselspecific business and safety constraints to meet an emissions target for example an operator could preset a fuel consumption limit by burning less fuel voyage after voyage the operator reduces the vesselâs carbon intensity and improves its cii rating read more important benefits of weather routing for optimal voyages  the future of carbon intensityâ the cii will be widely adopted by shipping companies as a guiding metric in 2023 and will surely spur some corrective action nonetheless the imoâs approach to reducing and measuring carbon intensity has its critics currently the imoâs ciiâbased plan will require an industrywide carbon intensity reduction of 2 annually to reach its stated 40 reduction goal by 2030 relative to 2008 levels according to the international council on clean transportation however a 2 annual reduction is not aligned with the imoâs commitment to the temperature goals of the paris agreement  to be in line with that benchmark a 67 annual reduction would be necessary put differently even if all vessels globally meet current carbon intensity targets â unlikely given the industryâs starting point â the collective reduction would still be insufficient in the context of the worldâs foremost climate agreement there is also debate over how carbon intensity should be measured lars robert pedersen deputy secretary general of the shipping association bimco argues that the current calculation rewards ships that travel longer distances without a full load of cargo in reality this dynamic could generate more voyages and ultimately increased co2 emissions disagreements aside forthcoming regulations require that operators take decisive action to decarbonize their fleets to make immediate progress towards reducing emissions operators will be wise to trust in existing technologies like shipping route optimization which is proven to decrease vessel fuel consumption and carbon intensity to read more introductory content check out the sofar ocean blog  to learn more about wayfinder and carbon intensity reduction check out the wayfinder page or schedule a demo with our team sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories product august 29 2022 how wayfinder helps vessels avoid storms ocean science june 6 2022 everything you need to know about the carbon intensity indicator cii about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+How to reduce a vessel's carbon intensity
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Ocean Science
+Ocean Science
+Analysis
+How to reduce a vessel's carbon intensity
+An introduction to vessel carbon intensity, the new mandates regulating it, and the tools used by the shipping industry to reduce it.
+Sofar Ocean
+November 16, 2022
+ï
+Back
+Ocean Science
+Ocean Science
+Analysis
+How to reduce a vessel's carbon intensity
+Sofar Ocean
+Starting in January 2023, the International Maritime Organization (IMO) will require shipping companies to track the carbon intensity of vessels. Based on the data collected, each ship will receive a
+Carbon Intensity Indicator (CII)
+rating, an assessment of how efficiently the ship moves cargo in terms of the greenhouse gas emissions (GHG) it produces.
+The outlook for many shipsâ forthcoming CII grades is not positive; in one
+ESG assessment
+, over one third of the worldâs vessels were projected to receive a failing CII grade. To ensure that their ships are compliant when regulations go into effect, owners and operators must understand what vessel carbon intensity is, how the IMO measures it, and what tools they can use to reduce it.
+What is carbon intensity and how is it calculated?
+In the shipping industry, a vesselâs carbon intensity is a measure of its greenhouse gas emissions relative to the amount of cargo it carries over a certain distance. To calculate carbon intensity, the IMO uses the following
+formula
+:
+Annual Efficiency Ratio (AER) = (Annual Fuel Consumption x CO2 Emission Factor*) / (Annual Distance Sailed x Design Deadweight of the Vessel**)
+â
+â
+CII = AER (adjusted for corrections & exclusions)
+*A shipâs CO2 emission factor is calculated based on the type of fuel used to power it.
+**A shipâs design deadweight is the maximum amount of cargo plus crew, fuel, etc. that it can carry.
+â
+CII scores will translate to an A - E grade, with A being the best rating. Ships that earn a D or E grade will be required to submit a â
+corrective action plan
+,â which outlines how the vessel will make the improvements necessary to achieve a minimum C rating. The criteria for achieving a passing grade will become more stringent each year, an aggressive approach in line with the IMOâs goal to reduce the shipping industryâs GHG emissions
+by as much as 70%
+by 2050. Key stakeholders, such as port authorities, are encouraged to offer incentives to companies that use ships with high CII ratings.
+How to reduce a vesselâs carbon intensity
+Two of the primary carbon intensity reduction strategies focus on fuel consumption. They are:
+Using alternative types of fuel that, when burned, emit less GHGs than fossil fuels
+Using voyage optimization tools to find more efficient routes and burn less fuel
+The full potential of
+alternative fuels
+, such as biofuels, liquified natural gas (LNG), clean ammonia, and other less carbon-intensive inputs, has yet to be unlocked. That said, major shipping companies like Maersk and CMA CGM are
+actively investing
+in these potential replacements. Zero-carbon fuel â fuel that emits no GHGs â is currently neither affordable nor scalable.
+The shipping industryâs carbon intensity reduction goals may still be met absent a âsilver bulletâ alternative fuel. Existing technologies, in particular, offer immediate solutions.
+"I would support the suggestion that the existing tech can get to 11% [carbon intensity improvement),â said Tristan Smith, an associate professor at UCL Energy Institute and the Director of University Maritime Advisory Services, in a conversation with
+S&P Global
+. âWe estimate that existing mature tech can get to a 31% carbon intensity improvement by 2030, without any change in fuel carbon intensity."
+Shipping route optimization is an existing technology with particular promise. According to an
+IMO estimate
+, a vessel that follows a route with optimized weather conditions can reduce fuel consumption by up to 3% during a voyage.
+â
+Sofar Oceanâs Wayfinder
+provides fleets with continuously optimized voyage guidance. Using Sofarâs highly accurate forecasts powered by the largest ocean weather sensor network, Wayfinder sends daily speed and waypoint recommendations that put vessels on the least weather-restricted path to port. These recommendations take into account vessel-specific business and safety constraints. To meet an emissions target, for example, an operator could preset a fuel consumption limit; by burning less fuel voyage after voyage, the operator reduces the vesselâs carbon intensity and improves its CII rating.
+[Read more:
+Important Benefits of Weather Routing for Optimal Voyages
+]
+The future of carbon intensityÂ
+The CII will be widely adopted by shipping companies as a guiding metric in 2023 and will surely spur some corrective action. Nonetheless, the IMOâs approach to reducing and measuring carbon intensity has its critics.
+Currently, the IMOâs CIIâbased plan will require an industry-wide carbon intensity reduction of 2% annually to reach its stated 40% reduction goal by 2030 (relative to 2008 levels). According to The International Council on Clean Transportation, however, a 2% annual reduction is
+not aligned
+with the IMOâs commitment to the
+temperature goals of the Paris Agreement
+; to be in line with that benchmark, a 6-7% annual reduction would be necessary. Put differently, even if all vessels globally meet current carbon intensity targets â unlikely, given the industryâs starting point â the collective reduction would still be insufficient in the context of the worldâs foremost climate agreement.
+There is also debate over how carbon intensity should be measured. Lars Robert Pedersen, Deputy Secretary General of the shipping association BIMCO,
+argues
+that the current calculation rewards ships that travel longer distances without a full load of cargo. In reality, this dynamic could generate more voyages and, ultimately, increased CO2 emissions.
+Disagreements aside, forthcoming regulations require that operators take decisive action to decarbonize their fleets. To make immediate progress towards reducing emissions, operators will be wise to trust in existing technologies like shipping route optimization, which is proven to decrease vessel fuel consumption and carbon intensity.
+To read more introductory content, check out the
+Sofar Ocean Blog
+. To learn more about Wayfinder and carbon intensity reduction, check out the
+Wayfinder page
+or
+schedule a demo
+with our team.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Product
+August 29, 2022
+How Wayfinder helps vessels avoid storms
+Ocean Science
+June 6, 2022
+Everything you need to know about the Carbon Intensity Indicator (CII)
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use

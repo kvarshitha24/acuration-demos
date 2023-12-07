@@ -1,1 +1,105 @@
-the importance of buoy observations to marine weather forecasts sofar approach wayfinder spotter platform updates support get in touch sofar approach wayfinder spotter system updates support get in touch ocean science ocean science analysis the importance of buoy observations to marine weather forecasts marine weather is slightly different than onshore weather and monitoring it effectively is a challenge emily heaslip august 15 2021 ï back ocean science ocean science analysis the importance of buoy observations to marine weather forecasts emily heaslip expert marine modellers are engineering increasingly efficient tools and technologies to ensure smooth sailing on the high seas and innovate oceanographic research around the world drifting and moored buoys developed for durability and longevity are widely favored for their easy deployments marine weather forecasts that assimilate data from networks of lowcost insitu sensors are uniquely predictive pioneering the democratization of ocean data what is marine weather marine weather refers to the atmospheric and wave conditions at sea like onshore weather forecasts marine weather will cover wind unlike onshore weather marine weather isnt limited to predicting if it will be rainy or sunny instead marine weather accounts for swell fronts  and wind for instance the nws marine forecast for off the coast of massachusetts and rhode island on august 11 readsâ âa few surface troughs move through today through friday bringing isolated to scattered showers and storms a cold front sweeps across the waters late on friday or saturday before high pressure builds in late in on sunday and into early next weekâ seas are reported as significant wave height which is the average of the highest third of the waves individual wave heights may be more than twice the significant wave heightââ a marine weather forecast predicts a few thingsâ 1 wind speed and direction 2 wave heights and periods 3 roughness of nearshore waters 4 significant weather such as storms and hurricanes marine forecasts are slightly more difficult to make than onshore weather forecasts this is because marine forecasts cover large areas of the ocean as a result forecasted elements are often expressed as a range rather than a specific metricâ âthe ranges represent average conditions over a period of time usually 12 hours and the actual conditions may be lower or higher than the forecast range boaters should plan for conditions above and below the predicted rangesâ explained the national weather service  monitoring offshore weather is important for the shipping industry and recreational boaters alike offshore weather can change rapidly for big vessels getting marine weather wrong can impact 80 of the ships performance â â how can we monitor marine weather marine weather conditions can be monitored by a few different methods and technologies there are various organizations located around the world such as the national weather service nws branch of the noaa in the us and the maritime  coastguard agency mca branch of the met office in the ukâ these organizations use a combination of satellites moored buoys drifting buoys ships aircraft and landbased observation stations to monitor marine weather conditions and the weather models in use by noaa ecmwf and others are remarkably accurateâ where marine weather forecasting struggles is in the range of data collection methods the combination of buoys aircraft satellites and other collection methods makes it difficult to forecast marine weather with a high degree of accuracy marine weather forecasting is still limited by lack of data reporting inconsistencies and the persistent difficulty of collecting information from remote areasâ read more why marine weather forecasts are so inaccurate  and how to improve them â â â sofar ocean provides open and accessible marine data services to provide observation forecast and hindcast weather data from sofars global spotter network realtime observation data from sofars network makes their marine weather forecasts up to 50 more accurate than noaa and ecmwf with sights set on quadrupling their global network of buoys in the next 12 months sofar oceans marine weather forecasts help ship captains make smarter decisions to save on fuel optimize routing and deliver on timeâ to learn more about maritime weather forecasting visit the sofar ocean blog marine weather is hardly as straightforward as it sounds what we see on the surface is a sliver of the story marine weather is a dynamic mosaic of waves winds and temperature that requires specialized technology and expert knowledge to measure and predict fluctuating winds and shifting swells puts lives and assets at risk the precision and accuracy of marine weather forecasts depends on the integrity of the tools used to measure the range of variables that compound to create weather on the water sofar in the news in the news october 23 2023 wayfinder delivers 8 total equivalent fuel savings on brazilchina bdi c14 voyages arriving in early october in the news october 2 2023 what was different about the latest advanced naval technology exercise in the news september 25 2023 sofar oceans superior weather forecasts minimize voyage costs related stories customer stories september 9 2021 spotters in lake winnipesaukee with neracoos to improve the national weather service forecasts ocean science april 18 2021 improving hurricane observations with data from scalable sensor networks about climate commitment careers legal press room spotter login ï ï  ï  â 1998 sofar ocean privacy policy terms of use
+The importance of buoy observations to marine weather forecasts
+Sofar Approach
+Wayfinder
+Spotter Platform
+Updates
+Support
+Get in Touch
+Sofar Approach
+Wayfinder
+Spotter System
+Updates
+Support
+Get in Touch
+Ocean Science
+Ocean Science
+Analysis
+The importance of buoy observations to marine weather forecasts
+Marine weather is slightly different than onshore weather, and monitoring it effectively is a challenge.
+Emily Heaslip
+August 15, 2021
+ï
+Back
+Ocean Science
+Ocean Science
+Analysis
+The importance of buoy observations to marine weather forecasts
+Emily Heaslip
+Expert marine modellers are engineering increasingly efficient tools and technologies to ensure smooth sailing on the high seas and innovate oceanographic research around the world. Drifting and moored buoys developed for durability and longevity are widely favored for their easy deployments. Marine weather forecasts that assimilate data from networks of low-cost in-situ sensors are uniquely predictive, pioneering the democratization of ocean data.
+What is marine weather?
+Marine weather refers to the atmospheric and wave conditions at sea. Like onshore weather forecasts, marine weather will cover wind. Unlike onshore weather, marine weather
+isn't limited to predicting
+if it will be rainy or sunny. Instead, marine weather accounts for swell,
+fronts
+, and wind. For instance, the
+NWS marine forecast
+for off the coast of Massachusetts and Rhode Island on August 11 reads:Â
+âA few surface troughs move through today through Friday bringing isolated to scattered showers and storms. A cold front sweeps across the waters late on Friday or Saturday before high pressure builds in late in on Sunday and into early next weekâ¦ Seas are reported as significant wave height, which is the average of the highest third of the waves. Individual wave heights may be more than twice the significant wave height.âÂ
+A marine weather forecast predicts a few things:Â
+1. Wind speed and direction
+2. Wave heights and periods
+3. Roughness of nearshore waters
+4. Significant weather (such as storms and hurricanes)
+Marine forecasts are slightly more difficult to make than onshore weather forecasts. This is because marine forecasts cover large areas of the ocean. As a result, forecasted elements are often expressed as a range, rather than a specific metric.Â
+âThe ranges represent average conditions over a period of time (usually 12 hours) and the actual conditions may be lower or higher than the forecast range. Boaters should plan for conditions above and below the predicted ranges,â explained the
+National Weather Service
+.
+Monitoring offshore weather is important for the shipping industry and recreational boaters alike. Offshore weather can change rapidly; for big vessels, getting marine weather wrong can impact
+80% of the ship's performance
+.Â
+â
+How can we monitor marine weather?
+Marine weather conditions can be monitored by a few different methods and technologies. There are various organizations located around the world, such as the
+National Weather Service (NWS)
+branch of the NOAA in the US and the
+Maritime & Coastguard Agency (MCA)
+branch of the Met Office in the UK.Â
+These organizations use a
+combination
+of satellites, moored buoys, drifting buoys, ships, aircraft, and land-based observation stations to monitor marine weather conditions. And, the weather models in use by NOAA, ECMWF, and others are remarkably accurate.Â
+Where marine weather forecasting struggles is in the range of data collection methods. The combination of buoys, aircraft, satellites, and other collection methods makes it difficult to forecast marine weather with a high degree of accuracy. Marine weather forecasting is still limited by lack of data, reporting inconsistencies, and the persistent difficulty of collecting information from remote areas.Â
+[Read more:
+Why Marine Weather Forecasts Are So Inaccurate - And How To Improve Them
+]Â Â Â
+Sofar Ocean provides open and accessible
+marine data services
+to provide observation, forecast, and hindcast weather data from Sofar's global
+Spotter
+network. Real-time observation data from Sofar's network makes their marine weather forecasts
+up to 50% more accurate
+than NOAA and ECMWF.
+With sights set on quadrupling their global network of buoys in the next 12 months, Sofar Ocean's marine weather forecasts help ship captains make smarter decisions to save on fuel, optimize routing, and deliver on time.Â
+To learn more about maritime weather forecasting, visit the
+Sofar Ocean blog
+.Marine weather is hardly as straightforward as it sounds. What we see on the surface is a sliver of the story: marine weather is a dynamic mosaic of waves, winds, and temperature that requires specialized technology and expert knowledge to measure and predict. Fluctuating winds and shifting swells puts lives and assets at risk. The precision and accuracy of marine weather forecasts depends on the integrity of the tools used to measure the range of variables that compound to create weather on the water.
+Sofar in the News
+In the News
+October 23, 2023
+Wayfinder delivers 8% total equivalent fuel savings on Brazil-China (BDI C14) voyages arriving in early October
+In the News
+October 2, 2023
+What was different about the latest Advanced Naval Technology Exercise
+In the News
+September 25, 2023
+Sofar Ocean's Superior Weather Forecasts Minimize Voyage Costs
+Related Stories
+Customer Stories
+September 9, 2021
+Spotters in Lake Winnipesaukee with NERACOOS to improve the National Weather Service forecasts
+Ocean Science
+April 18, 2021
+Improving hurricane observations with data from scalable sensor networks
+About
+Climate Commitment
+Careers
+Legal
+Press Room
+Spotter Login
+ï
+ï§
+ï­
+Â©
+1998
+Sofar Ocean
+Privacy Policy
+Terms of Use
