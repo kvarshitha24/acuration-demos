@@ -1,0 +1,1 @@
+ Power Save Mode turns off Spotters GPS sensor during sampling dwell periods, increasing its battery life by at least 25% and extending its deployment duration at high latitudes . 15% of Spotter customers deploy their Spotters in sun-starved environments, where extended battery life is particularly valuable .

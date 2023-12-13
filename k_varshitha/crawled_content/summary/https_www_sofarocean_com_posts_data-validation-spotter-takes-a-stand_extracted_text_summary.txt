@@ -1,0 +1,1 @@
+ To deterministically validate Spotter motion sensing capabilities we use a purpose-built motion teststand, which provides extremely accurate positioning control . Figure 1 shows time series of displacement for a periodic wave with 12s period and 1.2m wave height .

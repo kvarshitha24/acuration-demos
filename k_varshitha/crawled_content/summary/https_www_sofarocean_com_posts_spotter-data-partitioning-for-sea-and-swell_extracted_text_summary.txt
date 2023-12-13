@@ -1,0 +1,1 @@
+ Spotter Data Partitioning for "sea" and "swell" can now partition data to provide better insight into the nature of the sea state . The partitioned bulk parameters are calculated for their respective parts of the wave spectrum .

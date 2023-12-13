@@ -1,0 +1,1 @@
+ High Data Rate (HDR) mode allows Spotter 3 to send 1000x more data at a fraction of the cost . HDR allows for flexible control of spectral processing and makes it possible to send full wave displacement time-series data to the Spotter dashboard and API .

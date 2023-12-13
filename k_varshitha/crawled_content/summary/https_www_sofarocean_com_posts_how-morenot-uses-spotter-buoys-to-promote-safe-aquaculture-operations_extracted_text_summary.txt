@@ -1,0 +1,1 @@
+ How Mrenot uses Spotter buoys to promote safe aquaculture operations . Spotter collects wave, wind, sea surface temperature, and barometric pressure data . Data will be used to identify patterns, backed by data, that reveal what conditions should be considered safe and unsafe .

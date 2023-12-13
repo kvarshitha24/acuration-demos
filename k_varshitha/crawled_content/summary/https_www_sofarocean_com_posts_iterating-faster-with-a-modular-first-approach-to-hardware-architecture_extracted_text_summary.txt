@@ -1,0 +1,1 @@
+ At Sofar Ocean, we believe that we can produce rugged, durable, and mission-critical hardware quickly and iteratively by taking a modular approach . We asked ourselves how the hardware engineering team can be responsive to quickly changing payload requirements -- with a speed similar to software colleagues .

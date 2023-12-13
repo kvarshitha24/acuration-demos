@@ -1,0 +1,1 @@
+ How The Ocean Cleanup uses Sofars metocean data to clean the Great Pacific Garbage Patch . Majority of ocean plastic is found within five oceanic gyres, with the largest one being the GPGP . Lead Computational Modeler Bruno Saint-Rose combines marine weather forecasts with Spotter buoy data .

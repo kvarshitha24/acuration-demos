@@ -1,0 +1,1 @@
+ The third generation of our Spotter platform includes an array of new features including cellular connectivity . An onboard broadband cellular modem with global coverage allows for 1000x more data to be transmitted at a fraction of the cost . The best way to confirm that your Spotter has cellular connection is to ensure that the Signal LED is green .

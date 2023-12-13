@@ -1,0 +1,1 @@
+ The Spotter 3 platform features a barometer, increased onboard compute power, cellular telemetry, efficiency enhancements, and more . Existing Spotter users will be happy to know that the core competencies of Spotter are unchanged .

@@ -1,0 +1,1 @@
+ Wayfinder is a dynamic voyage guidance system that continuously provides vessels with the most optimized speed and routes possible . To identify the least weather-restricted path to port, Wayfinder leverages our highly accurate forecasts, which are 40% more accurate than forecasts from government centers .
