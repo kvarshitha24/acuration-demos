@@ -1,1 +1,0 @@
- USGS & Sofar: Next-generation real-time oceanographic instrumentation . Data will be used to assess the skill of the USGS/NOAA Total Water Level and Coastal Change Forecast . The instrument is a compact and portable version of the large oceanographic buoys .

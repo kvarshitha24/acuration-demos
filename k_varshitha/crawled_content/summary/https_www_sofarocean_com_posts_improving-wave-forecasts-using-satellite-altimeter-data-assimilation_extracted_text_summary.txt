@@ -1,1 +1,0 @@
- Real-time data corrects the  state of the forecasts, which in turn improves our wave predictions in the future . By incorporating this wave buoy data, we generate global wave forecasts that are 40% more accurate than leading government forecast centers .

@@ -1,1 +1,0 @@
- Voyage Optimization with Wayfinder delivers daily voyage guidance and accounts for changing conditions . Wayfinder evaluates millions of routes each day and alerts Captains and Operators in-app and via email when there is a more optimal path to port that takes advantage of favorable forecasts and offers significant savings opportunities .

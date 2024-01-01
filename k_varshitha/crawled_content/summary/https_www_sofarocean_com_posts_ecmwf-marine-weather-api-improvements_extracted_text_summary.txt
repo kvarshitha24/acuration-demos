@@ -1,1 +1,0 @@
- A closer look at how ECMWF data enhances Sofar's global wave forecasting system and Marine Weather API . An ECMWf-forced waves endpoint is now available on the Marine Weather . API now also includes an endpoint for Sofars bias-corrected ECMW F winds . This new endpoint applies a statistical correction that improves accuracy .

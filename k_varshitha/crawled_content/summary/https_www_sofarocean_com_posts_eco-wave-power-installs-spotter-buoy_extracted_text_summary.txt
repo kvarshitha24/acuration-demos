@@ -1,1 +1,0 @@
- Eco Wave Power uses a Sofar Spotter to track wind and wave data near the only grid-connected wave energy array in the world . The buoy provides important data such as wave height, wave period, wave direction and wind data .

@@ -1,1 +1,0 @@
- A deep dive look at the dynamic route optimization capabilities unlocked by Wayfinder. Dynamic route optimization: Finding the shortest path .

@@ -1,1 +1,0 @@
- White paper: Why deploying a network of marine sensing systems is the key to collecting ocean data at scale . Government, industry, and the research community are increasingly using robust networks of rapidly deployable and cost-effective sensing systems in place of traditional solutions .

@@ -1,1 +1,0 @@
- The Wayfinder Voyage Optimization platform provides continuous, proactive, and holistic route guidance to vessels . It considers hundreds of millions of route options daily before sending waypoint and RPM recommendations based on the latest weather forecasts .

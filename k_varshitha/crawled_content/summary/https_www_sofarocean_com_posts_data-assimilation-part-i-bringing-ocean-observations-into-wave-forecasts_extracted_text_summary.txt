@@ -1,1 +1,0 @@
- Data assimilation part I: bringing ocean observations into wave forecasts . At Sofar, we are using the real-time ocean observations recorded by our global network of Spotter buoys . With this added information, we can then start to better predict what the wave conditions will be tomorrow .

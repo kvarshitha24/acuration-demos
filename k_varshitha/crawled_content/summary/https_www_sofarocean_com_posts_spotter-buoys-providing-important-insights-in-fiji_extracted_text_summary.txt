@@ -1,1 +1,0 @@
- New buoy technology provides better wave forecasts and ocean weather data for remote islands with critical coral ecology challenges . It uses a combination of temperature and wave height monitoring sensors deployed on a moored buoy to provide high resolution ocean data .

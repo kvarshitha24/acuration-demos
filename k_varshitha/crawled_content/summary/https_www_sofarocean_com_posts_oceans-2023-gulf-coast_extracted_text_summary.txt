@@ -1,1 +1,0 @@
- OCEANS 2023 Gulf Coast: "Technological Innovation to Map, Explore, and Characterize the United States EEZ" Participants will learn about the Bristlemouth open standard, including the physical connector and the software used to manage sensors . Participants will see examples of off-the-shelf and custom sensors successfully being integrated using the standard .

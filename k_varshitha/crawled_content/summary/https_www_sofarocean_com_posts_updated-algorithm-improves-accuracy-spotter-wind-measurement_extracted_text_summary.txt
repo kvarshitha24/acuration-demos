@@ -1,1 +1,0 @@
- Updated algorithm improves accuracy of Spotters wind velocity measurements . The updated wind algorithm greatly improves the reliability of its estimates of wind velocity, particularly at high speeds .

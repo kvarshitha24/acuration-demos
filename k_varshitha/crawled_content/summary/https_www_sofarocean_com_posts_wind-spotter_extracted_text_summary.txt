@@ -1,1 +1,0 @@
- Spotter measures surface winds in real-time . Real-time estimates of wind speed and direction are available on Spotter and Dashboard .
